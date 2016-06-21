@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 1ce1c4f60d537254f87f3154d53c3892
+timeCreated: 1456481836
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maskedone_0
+    21300002: maskedone_1
+    21300004: maskedone_2
+    21300006: maskedone_3
+    21300008: maskedone_4
+    21300010: maskedone_5
+    21300012: maskedone_6
+    21300014: maskedone_7
+    21300016: maskedone_8
+    21300018: maskedone_9
+    21300020: maskedone_10
+    21300022: maskedone_11
+    21300024: maskedone_12
+    21300026: maskedone_13
+    21300028: maskedone_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: maskedone_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -61}
+        - {x: 29.5, y: -59}
+        - {x: 30.5, y: -49}
+        - {x: 44.5, y: -27}
+        - {x: 44.5, y: 69}
+        - {x: -32.5, y: 69}
+        - {x: -44.5, y: 54}
+        - {x: -44.5, y: -4}
+        - {x: -31.5, y: -65}
+        - {x: -19.5, y: -69}
+        - {x: 5.5, y: -69}
+        - {x: 9.5, y: -67}
+        - {x: 6.5, y: -60}
+        - {x: 2.5, y: -56}
+        - {x: 9.5, y: -61}
+    - name: maskedone_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 69}
+        - {x: -44, y: 42}
+        - {x: -44, y: 20}
+        - {x: -31, y: -11}
+        - {x: -27, y: -14}
+        - {x: -10, y: -14}
+        - {x: -24, y: -51}
+        - {x: -12, y: -69}
+        - {x: 26, y: -69}
+        - {x: 44, y: -28}
+        - {x: 44, y: 49}
+        - {x: 39, y: 69}
+    - name: maskedone_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 89
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 68}
+        - {x: -32.5, y: 68}
+        - {x: -44.5, y: 57}
+        - {x: -44.5, y: -24}
+        - {x: -22.5, y: -68}
+        - {x: 14.5, y: -68}
+        - {x: 19.5, y: -64}
+        - {x: 24.5, y: -59}
+        - {x: 44.5, y: -33}
+    - name: maskedone_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 67.5}
+        - {x: -44.5, y: 50.5}
+        - {x: -44.5, y: -12.5}
+        - {x: -27.5, y: -67.5}
+        - {x: 43.5, y: -67.5}
+        - {x: 44.5, y: -63.5}
+        - {x: 44.5, y: 65.5}
+        - {x: 39.5, y: 67.5}
+    - name: maskedone_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2
+        width: 88
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 68.5}
+        - {x: -44, y: -45.5}
+        - {x: 1, y: -68.5}
+        - {x: 21, y: -68.5}
+        - {x: 44, y: -30.5}
+        - {x: 44, y: 68.5}
+    - name: maskedone_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 68.5}
+        - {x: -29.5, y: 68.5}
+        - {x: -44.5, y: 59.5}
+        - {x: -44.5, y: -29.5}
+        - {x: -35.5, y: -58.5}
+        - {x: -15.5, y: -68.5}
+        - {x: 21.5, y: -68.5}
+        - {x: 24.5, y: -64.5}
+        - {x: 44.5, y: -30.5}
+        - {x: 44.5, y: 56.5}
+    - name: maskedone_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 68}
+        - {x: -44, y: 46}
+        - {x: -44, y: -36}
+        - {x: -36, y: -60}
+        - {x: -21, y: -68}
+        - {x: 44, y: -68}
+        - {x: 44, y: 68}
+    - name: maskedone_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1
+        width: 88
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 68.5}
+        - {x: -44, y: -28.5}
+        - {x: -12, y: -68.5}
+        - {x: 39, y: -68.5}
+        - {x: 44, y: -58.5}
+        - {x: 44, y: 58.5}
+        - {x: 40, y: 68.5}
+    - name: maskedone_8
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 68.5}
+        - {x: -44.5, y: 58.5}
+        - {x: -44.5, y: -10.5}
+        - {x: -23.5, y: -68.5}
+        - {x: 25.5, y: -68.5}
+        - {x: 44.5, y: -33.5}
+        - {x: 44.5, y: 64.5}
+        - {x: 43.5, y: 68.5}
+    - name: maskedone_9
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 69}
+        - {x: -44, y: -45}
+        - {x: -9, y: -69}
+        - {x: 33, y: -69}
+        - {x: 44, y: -43}
+        - {x: 44, y: 48}
+        - {x: 35, y: 69}
+    - name: maskedone_10
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 69.5}
+        - {x: -44, y: 58.5}
+        - {x: -44, y: -30.5}
+        - {x: -11, y: -64.5}
+        - {x: -3, y: -69.5}
+        - {x: 19, y: -69.5}
+        - {x: 44, y: -24.5}
+        - {x: 44, y: 50.5}
+        - {x: 38, y: 69.5}
+    - name: maskedone_11
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 0
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 69.5}
+        - {x: -32, y: 69.5}
+        - {x: -44, y: 59.5}
+        - {x: -44, y: -18.5}
+        - {x: -16, y: -62.5}
+        - {x: -9, y: -69.5}
+        - {x: 13, y: -69.5}
+        - {x: 33, y: -59.5}
+        - {x: 44, y: -24.5}
+        - {x: 44, y: 56.5}
+    - name: maskedone_12
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 8
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 63}
+        - {x: -46, y: 31}
+        - {x: -46, y: -8}
+        - {x: -45, y: -13}
+        - {x: 9, y: -39}
+        - {x: 14, y: -39}
+        - {x: 18, y: -36}
+        - {x: 18, y: -38}
+        - {x: 9, y: -40}
+        - {x: 4, y: -41}
+        - {x: 1, y: -61}
+        - {x: 2, y: -63}
+        - {x: 46, y: -63}
+        - {x: 46, y: 37}
+        - {x: 18, y: 63}
+    - name: maskedone_13
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 8
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 64.5}
+        - {x: -25, y: 64.5}
+        - {x: -43, y: 47.5}
+        - {x: -43, y: -15.5}
+        - {x: -21, y: -44.5}
+        - {x: 8, y: -64.5}
+        - {x: 43, y: -64.5}
+        - {x: 43, y: 46.5}
+        - {x: 33, y: 56.5}
+    - name: maskedone_14
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 62}
+        - {x: 36.5, y: 69}
+        - {x: -27.5, y: 69}
+        - {x: -44.5, y: 53}
+        - {x: -44.5, y: 8}
+        - {x: -10.5, y: -69}
+        - {x: 18.5, y: -69}
+        - {x: 26.5, y: -60}
+        - {x: 29.5, y: -51}
+        - {x: 44.5, y: -9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

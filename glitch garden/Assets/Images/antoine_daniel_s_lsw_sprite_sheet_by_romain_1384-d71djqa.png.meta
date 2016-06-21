@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: ef91e1b4023e4624d9f446efab64fa2e
+timeCreated: 1456572994
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_0
+    21300002: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_1
+    21300004: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_2
+    21300006: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_3
+    21300008: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_4
+    21300010: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_5
+    21300012: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_6
+    21300014: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_7
+    21300016: punetazo
+    21300018: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_9
+    21300020: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_10
+    21300022: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_11
+    21300024: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_12
+    21300026: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_13
+    21300028: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_14
+    21300030: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_15
+    21300032: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_16
+    21300034: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_17
+    21300036: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_18
+    21300038: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_19
+    21300040: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_20
+    21300042: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_21
+    21300044: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_22
+    21300046: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_23
+    21300048: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_24
+    21300050: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_25
+    21300052: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_26
+    21300054: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_27
+    21300056: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_28
+    21300058: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_29
+    21300060: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_30
+    21300062: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_31
+    21300064: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_32
+    21300066: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 248
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 248
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 248
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -16, y: 0}
+        - {x: -16, y: -21}
+        - {x: 3, y: -21}
+        - {x: 16, y: -12}
+        - {x: 16, y: 21}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 248
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 240
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 16}
+        - {x: 28, y: 18}
+        - {x: 30, y: 25}
+        - {x: 25, y: 28}
+        - {x: -30, y: 28}
+        - {x: -32, y: 25}
+        - {x: -32, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: 17}
+        - {x: 30, y: 18}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 240
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 16}
+        - {x: 32, y: 22}
+        - {x: 32, y: 28}
+        - {x: -31, y: 28}
+        - {x: -32, y: 27}
+        - {x: -32, y: -28}
+        - {x: 30, y: -28}
+        - {x: 32, y: -21}
+        - {x: 32, y: 17}
+        - {x: 30, y: 18}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 240
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 16}
+        - {x: 32, y: 22}
+        - {x: 32, y: 28}
+        - {x: -31, y: 28}
+        - {x: -32, y: 27}
+        - {x: -32, y: -28}
+        - {x: 30, y: -28}
+        - {x: 32, y: -21}
+        - {x: 32, y: 17}
+        - {x: 30, y: 18}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -4}
+        - {x: 16, y: 12}
+        - {x: 12, y: 21}
+        - {x: -16, y: 21}
+        - {x: -16, y: -21}
+        - {x: 5, y: -21}
+        - {x: 7, y: -19}
+        - {x: 15, y: -6}
+    - name: punetazo
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 187
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 187
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23}
+        - {x: -18.5, y: -23}
+        - {x: -1.5, y: -23}
+        - {x: 18.5, y: -9}
+        - {x: 18.5, y: 4}
+        - {x: 4.5, y: 23}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 187
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.5}
+        - {x: -18, y: 17.5}
+        - {x: -18, y: -13.5}
+        - {x: -7, y: -20.5}
+        - {x: 14, y: -20.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 20.5}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 187
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 187
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 187
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 118
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -18, y: 19}
+        - {x: -18, y: -21}
+        - {x: 18, y: -21}
+        - {x: 18, y: 20}
+        - {x: 14, y: 21}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 118
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: -21.5}
+        - {x: 6, y: -21.5}
+        - {x: 16, y: -6.5}
+        - {x: 16, y: 13.5}
+        - {x: 10, y: 21.5}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 119
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -17}
+        - {x: -14, y: -20}
+        - {x: 9, y: -20}
+        - {x: 18, y: -12}
+        - {x: 18, y: 6}
+        - {x: 12, y: 20}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 119
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -18.5, y: -18}
+        - {x: -15.5, y: -20}
+        - {x: 8.5, y: -20}
+        - {x: 18.5, y: -13}
+        - {x: 18.5, y: 13}
+        - {x: 2.5, y: 20}
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 119
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 119
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 119
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 87
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 84
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 87
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 87
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 57
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 57
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: antoine_daniel_s_lsw_sprite_sheet_by_romain_1384-d71djqa_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 57
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

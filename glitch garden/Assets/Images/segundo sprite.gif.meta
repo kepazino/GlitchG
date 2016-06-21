@@ -1,0 +1,2772 @@
+fileFormatVersion: 2
+guid: 8b2cc60751e240b468fcc76e31ddc81a
+timeCreated: 1455723728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: segundo sprite_0
+    21300002: segundo sprite_1
+    21300004: segundo sprite_2
+    21300006: segundo sprite_3
+    21300008: segundo sprite_4
+    21300010: segundo sprite_5
+    21300012: segundo sprite_6
+    21300014: segundo sprite_7
+    21300016: segundo sprite_8
+    21300018: segundo sprite_9
+    21300020: segundo sprite_10
+    21300022: segundo sprite_11
+    21300024: segundo sprite_12
+    21300026: segundo sprite_13
+    21300028: segundo sprite_14
+    21300030: segundo sprite_15
+    21300032: segundo sprite_16
+    21300034: segundo sprite_17
+    21300036: segundo sprite_18
+    21300038: segundo sprite_19
+    21300040: segundo sprite_20
+    21300042: segundo sprite_21
+    21300044: segundo sprite_22
+    21300046: segundo sprite_23
+    21300048: segundo sprite_24
+    21300050: segundo sprite_25
+    21300052: segundo sprite_26
+    21300054: segundo sprite_27
+    21300056: segundo sprite_28
+    21300058: segundo sprite_29
+    21300060: segundo sprite_30
+    21300062: segundo sprite_31
+    21300064: segundo sprite_32
+    21300066: segundo sprite_33
+    21300068: segundo sprite_34
+    21300070: segundo sprite_35
+    21300072: segundo sprite_36
+    21300074: segundo sprite_37
+    21300076: segundo sprite_38
+    21300078: segundo sprite_39
+    21300080: segundo sprite_40
+    21300082: segundo sprite_41
+    21300084: segundo sprite_42
+    21300086: segundo sprite_43
+    21300088: segundo sprite_44
+    21300090: segundo sprite_45
+    21300092: segundo sprite_46
+    21300094: segundo sprite_47
+    21300096: segundo sprite_48
+    21300098: segundo sprite_49
+    21300100: segundo sprite_50
+    21300102: segundo sprite_51
+    21300104: segundo sprite_52
+    21300106: segundo sprite_53
+    21300108: segundo sprite_54
+    21300110: segundo sprite_55
+    21300112: segundo sprite_56
+    21300114: segundo sprite_57
+    21300116: segundo sprite_58
+    21300118: segundo sprite_59
+    21300120: segundo sprite_60
+    21300122: segundo sprite_61
+    21300124: segundo sprite_62
+    21300126: segundo sprite_63
+    21300128: segundo sprite_64
+    21300130: segundo sprite_65
+    21300132: segundo sprite_66
+    21300134: segundo sprite_67
+    21300136: segundo sprite_68
+    21300138: segundo sprite_69
+    21300140: segundo sprite_70
+    21300142: segundo sprite_71
+    21300144: segundo sprite_72
+    21300146: segundo sprite_73
+    21300148: segundo sprite_74
+    21300150: segundo sprite_75
+    21300152: segundo sprite_76
+    21300154: segundo sprite_77
+    21300156: segundo sprite_78
+    21300158: segundo sprite_79
+    21300160: segundo sprite_80
+    21300162: segundo sprite_81
+    21300164: segundo sprite_82
+    21300166: segundo sprite_83
+    21300168: segundo sprite_84
+    21300170: segundo sprite_85
+    21300172: segundo sprite_86
+    21300174: segundo sprite_87
+    21300176: segundo sprite_88
+    21300178: segundo sprite_89
+    21300180: segundo sprite_90
+    21300182: segundo sprite_91
+    21300184: segundo sprite_92
+    21300186: segundo sprite_93
+    21300188: segundo sprite_94
+    21300190: segundo sprite_95
+    21300192: segundo sprite_96
+    21300194: segundo sprite_97
+    21300196: segundo sprite_98
+    21300198: segundo sprite_99
+    21300200: segundo sprite_100
+    21300202: segundo sprite_101
+    21300204: segundo sprite_102
+    21300206: segundo sprite_103
+    21300208: segundo sprite_104
+    21300210: segundo sprite_105
+    21300212: segundo sprite_106
+    21300214: segundo sprite_107
+    21300216: segundo sprite_108
+    21300218: segundo sprite_109
+    21300220: segundo sprite_110
+    21300222: segundo sprite_111
+    21300224: segundo sprite_112
+    21300226: segundo sprite_113
+    21300228: segundo sprite_114
+    21300230: segundo sprite_115
+    21300232: segundo sprite_116
+    21300234: segundo sprite_117
+    21300236: segundo sprite_118
+    21300238: segundo sprite_119
+    21300240: segundo sprite_120
+    21300242: segundo sprite_121
+    21300244: segundo sprite_122
+    21300246: segundo sprite_123
+    21300248: segundo sprite_124
+    21300250: segundo sprite_125
+    21300252: segundo sprite_126
+    21300254: segundo sprite_127
+    21300256: segundo sprite_128
+    21300258: segundo sprite_129
+    21300260: segundo sprite_130
+    21300262: segundo sprite_131
+    21300264: segundo sprite_132
+    21300266: segundo sprite_133
+    21300268: segundo sprite_134
+    21300270: segundo sprite_135
+    21300272: segundo sprite_136
+    21300274: segundo sprite_137
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: segundo sprite_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 820
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.5}
+        - {x: -21.5, y: 14.5}
+        - {x: -21.5, y: -13.5}
+        - {x: -19.5, y: -23.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 21.5, y: 18.5}
+        - {x: 10.5, y: 23.5}
+    - name: segundo sprite_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 820
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.5}
+        - {x: -21.5, y: 15.5}
+        - {x: -21.5, y: -12.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 13.5, y: 23.5}
+    - name: segundo sprite_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 819
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 15}
+        - {x: -21, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: 3}
+        - {x: 20, y: 7}
+        - {x: 12, y: 24}
+        - {x: -10, y: 24}
+        - {x: -18, y: 21}
+    - name: segundo sprite_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 820
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23.5}
+        - {x: -21, y: 13.5}
+        - {x: -21, y: -20.5}
+        - {x: -20, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: 11.5}
+        - {x: 10, y: 23.5}
+    - name: segundo sprite_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 811
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 11, y: 12}
+        - {x: 12, y: 20}
+        - {x: 12, y: 28}
+        - {x: -18, y: 28}
+        - {x: -20, y: 22}
+        - {x: -20, y: -13}
+        - {x: -18, y: -28}
+        - {x: -6, y: -28}
+        - {x: 20, y: 1}
+        - {x: 20, y: 17}
+        - {x: 15, y: 18}
+    - name: segundo sprite_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 808
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 818
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -19, y: 16}
+        - {x: -19, y: -24}
+        - {x: 15, y: -24}
+        - {x: 19, y: -9}
+        - {x: 19, y: 24}
+    - name: segundo sprite_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 808
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 818
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -19, y: 8}
+        - {x: -13, y: -24}
+        - {x: 19, y: -24}
+        - {x: 19, y: 14}
+        - {x: 10, y: 24}
+    - name: segundo sprite_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 813
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 26.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -17.5, y: -1.5}
+        - {x: -15.5, y: -22.5}
+        - {x: -0.5, y: -26.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 17.5, y: 26.5}
+    - name: segundo sprite_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_14
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 809
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 25.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -14.5, y: -25.5}
+        - {x: 9.5, y: -25.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 16.5, y: 23.5}
+        - {x: 12.5, y: 25.5}
+    - name: segundo sprite_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 809
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -20}
+        - {x: -15, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 24}
+    - name: segundo sprite_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 814
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 23}
+        - {x: -14, y: 19}
+        - {x: -17, y: 14}
+        - {x: -17, y: -23}
+        - {x: 10, y: -23}
+        - {x: 15, y: -22}
+        - {x: 16, y: -19}
+        - {x: 17, y: -12}
+        - {x: 17, y: 23}
+    - name: segundo sprite_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 815
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -21, y: 22.5}
+        - {x: -21, y: -17.5}
+        - {x: -19, y: -22.5}
+        - {x: 13, y: -22.5}
+        - {x: 15, y: -21.5}
+        - {x: 13, y: -14.5}
+        - {x: 21, y: -8.5}
+    - name: segundo sprite_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 815
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23.5}
+        - {x: -21, y: 6.5}
+        - {x: -21, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: 13.5}
+        - {x: 7, y: 23.5}
+    - name: segundo sprite_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 815
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -16, y: 17}
+        - {x: -21, y: 1}
+        - {x: -21, y: -18}
+        - {x: -19, y: -23}
+        - {x: 21, y: -23}
+        - {x: 21, y: -13}
+        - {x: 6, y: 23}
+    - name: segundo sprite_20
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 814
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23.5}
+        - {x: -21, y: 6.5}
+        - {x: -21, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: 13.5}
+        - {x: 7, y: 23.5}
+    - name: segundo sprite_21
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 814
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -20, y: 9}
+        - {x: -20, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: 15}
+        - {x: 7, y: 24}
+    - name: segundo sprite_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 735
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -24}
+        - {x: 19.5, y: -24}
+        - {x: 19.5, y: 24}
+        - {x: -7.5, y: 24}
+        - {x: -19.5, y: 14}
+    - name: segundo sprite_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 731
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -28}
+        - {x: 22, y: -28}
+        - {x: 22, y: 24}
+        - {x: 21, y: 28}
+        - {x: -9, y: 28}
+        - {x: -22, y: 16}
+    - name: segundo sprite_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 731
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 28}
+        - {x: -21.5, y: 7}
+        - {x: -21.5, y: -22}
+        - {x: -12.5, y: -28}
+        - {x: 8.5, y: -28}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 15}
+        - {x: 12.5, y: 28}
+    - name: segundo sprite_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 731
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 16.5}
+        - {x: 14.5, y: 28.5}
+        - {x: -5.5, y: 28.5}
+        - {x: -14.5, y: 23.5}
+        - {x: -21.5, y: 16.5}
+        - {x: -21.5, y: -20.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: -6.5, y: -28.5}
+        - {x: -1.5, y: -23.5}
+        - {x: 13.5, y: -25.5}
+        - {x: 21.5, y: -12.5}
+    - name: segundo sprite_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 732
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 28}
+        - {x: -21.5, y: 22}
+        - {x: -21.5, y: -20}
+        - {x: -12.5, y: -28}
+        - {x: 6.5, y: -28}
+        - {x: 13.5, y: -26}
+        - {x: 21.5, y: 1}
+        - {x: 21.5, y: 19}
+        - {x: 14.5, y: 28}
+    - name: segundo sprite_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 736
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 24}
+        - {x: 17.5, y: 26}
+        - {x: -19.5, y: 26}
+        - {x: -19.5, y: -3}
+        - {x: -12.5, y: -9}
+        - {x: -10.5, y: -9}
+        - {x: -6.5, y: -6}
+        - {x: -5.5, y: -3}
+        - {x: -5.5, y: -5}
+        - {x: -10.5, y: -9}
+        - {x: -14.5, y: -11}
+        - {x: -8.5, y: -26}
+        - {x: 10.5, y: -26}
+        - {x: 17.5, y: -8}
+        - {x: 19.5, y: 0}
+    - name: segundo sprite_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 733
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27.5}
+        - {x: -20, y: -27.5}
+        - {x: 10, y: -27.5}
+        - {x: 20, y: 0.5}
+        - {x: 20, y: 27.5}
+    - name: segundo sprite_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 724
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -18, y: -6}
+        - {x: -6, y: -32}
+        - {x: 7, y: -32}
+        - {x: 18, y: -1}
+        - {x: 18, y: 32}
+    - name: segundo sprite_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 720
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 38.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -16.5, y: -19.5}
+        - {x: -7.5, y: -38.5}
+        - {x: 5.5, y: -38.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 17.5, y: 34.5}
+        - {x: 14.5, y: 38.5}
+    - name: segundo sprite_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 721
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 34.5}
+        - {x: -1.5, y: 39.5}
+        - {x: -17.5, y: 39.5}
+        - {x: -17.5, y: -7.5}
+        - {x: -16.5, y: -20.5}
+        - {x: -7.5, y: -39.5}
+        - {x: 6.5, y: -39.5}
+        - {x: 16.5, y: -25.5}
+        - {x: 17.5, y: -20.5}
+    - name: segundo sprite_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 723
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 29.5}
+        - {x: -20, y: -28.5}
+        - {x: -18, y: -29.5}
+        - {x: 10, y: -29.5}
+        - {x: 20, y: -26.5}
+        - {x: 20, y: 23.5}
+        - {x: 7, y: 29.5}
+    - name: segundo sprite_33
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 723
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22.5}
+        - {x: -35, y: 13.5}
+        - {x: -35, y: -22.5}
+        - {x: 25, y: -22.5}
+        - {x: 35, y: -13.5}
+        - {x: 35, y: 19.5}
+        - {x: 34, y: 22.5}
+    - name: segundo sprite_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 724
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 18}
+        - {x: -53.5, y: 15}
+        - {x: -53.5, y: -7}
+        - {x: -47.5, y: -11}
+        - {x: -33.5, y: -18}
+        - {x: 40.5, y: -18}
+        - {x: 53.5, y: -12}
+        - {x: 53.5, y: 6}
+        - {x: 48.5, y: 18}
+    - name: segundo sprite_35
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 722
+        width: 131
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 19}
+        - {x: -65.5, y: 5}
+        - {x: -65.5, y: -7}
+        - {x: -60.5, y: -13}
+        - {x: -34.5, y: -19}
+        - {x: 38.5, y: -19}
+        - {x: 65.5, y: -13}
+        - {x: 65.5, y: 19}
+    - name: segundo sprite_36
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 729
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: 4, y: 26}
+        - {x: -12, y: 26}
+        - {x: -18, y: 12}
+        - {x: -18, y: -26}
+        - {x: 18, y: -26}
+        - {x: 18, y: 10}
+        - {x: 17, y: 15}
+    - name: segundo sprite_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -22.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 11.5}
+        - {x: 10, y: 22.5}
+    - name: segundo sprite_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 662
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -19, y: 9}
+        - {x: -19, y: -23}
+        - {x: 19, y: -23}
+        - {x: 19, y: 11}
+        - {x: 15, y: 23}
+    - name: segundo sprite_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 664
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22}
+        - {x: -25.5, y: 15}
+        - {x: -25.5, y: -1}
+        - {x: -24.5, y: -2}
+        - {x: -19.5, y: -2}
+        - {x: -18.5, y: -1}
+        - {x: -6.5, y: -1}
+        - {x: -3.5, y: 2}
+        - {x: -3.5, y: -3}
+        - {x: -7.5, y: -1}
+        - {x: -17.5, y: -1}
+        - {x: -24.5, y: -10}
+        - {x: -22.5, y: -22}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 22}
+    - name: segundo sprite_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 662
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22.5}
+        - {x: -25, y: -12.5}
+        - {x: 6, y: -22.5}
+        - {x: 23, y: -22.5}
+        - {x: 25, y: -20.5}
+        - {x: 25, y: 22.5}
+    - name: segundo sprite_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 662
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -10}
+        - {x: -9, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 22}
+        - {x: 23, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 21}
+    - name: segundo sprite_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 662
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -18.5}
+        - {x: -18, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 16.5}
+        - {x: 20, y: 23.5}
+    - name: segundo sprite_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 663
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 24}
+        - {x: -20, y: 22}
+        - {x: -22, y: 19}
+        - {x: -22, y: -5}
+        - {x: -11, y: -24}
+        - {x: 21, y: -24}
+        - {x: 22, y: -17}
+        - {x: 22, y: 23}
+        - {x: 21, y: 24}
+    - name: segundo sprite_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 663
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -5}
+        - {x: -6, y: -24}
+        - {x: 13, y: -24}
+        - {x: 20, y: -9}
+        - {x: 20, y: 24}
+        - {x: -14, y: 24}
+        - {x: -20, y: 22}
+    - name: segundo sprite_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 661
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 23.5}
+        - {x: 0.5, y: 23.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -22.5, y: -6.5}
+        - {x: -14.5, y: -23.5}
+        - {x: 15.5, y: -23.5}
+        - {x: 22.5, y: -11.5}
+        - {x: 22.5, y: 18.5}
+    - name: segundo sprite_46
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 662
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 22.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -24.5, y: -8.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 22.5, y: 22.5}
+    - name: segundo sprite_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 660
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23}
+        - {x: -22.5, y: -16}
+        - {x: -3.5, y: -23}
+        - {x: 24.5, y: -23}
+        - {x: 24.5, y: 23}
+      - - {x: -21.5, y: -20}
+        - {x: -21.5, y: -17}
+        - {x: -24.5, y: -16}
+        - {x: -24.5, y: -21}
+    - name: segundo sprite_48
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 660
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23.5}
+        - {x: -20, y: 23.5}
+        - {x: -25, y: 17.5}
+        - {x: -25, y: -16.5}
+        - {x: -16, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -4.5}
+        - {x: 25, y: 14.5}
+    - name: segundo sprite_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 660
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -23, y: 20}
+        - {x: -23, y: -20}
+        - {x: -7, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 24}
+    - name: segundo sprite_50
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 660
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 24.5}
+    - name: segundo sprite_51
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 660
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24.5}
+        - {x: -21, y: 22.5}
+        - {x: -21, y: -17.5}
+        - {x: -18, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 21, y: -11.5}
+        - {x: 21, y: 22.5}
+        - {x: 20, y: 24.5}
+    - name: segundo sprite_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 660
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 24}
+        - {x: -22.5, y: 14}
+        - {x: -22.5, y: -5}
+        - {x: -14.5, y: -24}
+        - {x: 22.5, y: -24}
+        - {x: 22.5, y: 24}
+    - name: segundo sprite_53
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 615
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 46}
+        - {x: -55.5, y: -46}
+        - {x: 55.5, y: -46}
+        - {x: 55.5, y: 46}
+    - name: segundo sprite_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 600
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -22.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 7.5}
+        - {x: 10, y: 22.5}
+    - name: segundo sprite_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 600
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -19, y: 9}
+        - {x: -19, y: -23}
+        - {x: 19, y: -23}
+        - {x: 19, y: 11}
+        - {x: 15, y: 23}
+    - name: segundo sprite_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 601
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -18.5}
+        - {x: -18, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 16.5}
+        - {x: 20, y: 23.5}
+    - name: segundo sprite_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 600
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 24}
+        - {x: -20, y: 22}
+        - {x: -22, y: 19}
+        - {x: -22, y: -5}
+        - {x: -11, y: -24}
+        - {x: 21, y: -24}
+        - {x: 22, y: -17}
+        - {x: 22, y: 23}
+        - {x: 21, y: 24}
+    - name: segundo sprite_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 600
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -5}
+        - {x: -6, y: -24}
+        - {x: 13, y: -24}
+        - {x: 20, y: -9}
+        - {x: 20, y: 24}
+        - {x: -14, y: 24}
+        - {x: -20, y: 22}
+    - name: segundo sprite_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 601
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -12.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 22.5, y: -12.5}
+        - {x: 22.5, y: 17.5}
+        - {x: 21.5, y: 23.5}
+    - name: segundo sprite_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 603
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -24.5, y: 8.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -22.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 20.5, y: 22.5}
+    - name: segundo sprite_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 602
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23}
+        - {x: -22.5, y: -15}
+        - {x: -19.5, y: -17}
+        - {x: -0.5, y: -23}
+        - {x: 19.5, y: -23}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 22}
+        - {x: 20.5, y: 23}
+    - name: segundo sprite_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 601
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23.5}
+        - {x: -20, y: 23.5}
+        - {x: -25, y: 17.5}
+        - {x: -25, y: -16.5}
+        - {x: -16, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -4.5}
+        - {x: 25, y: 14.5}
+    - name: segundo sprite_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -23, y: 20}
+        - {x: -23, y: -20}
+        - {x: -7, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 24}
+    - name: segundo sprite_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 599
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 24.5}
+    - name: segundo sprite_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 599
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24.5}
+        - {x: -21, y: 22.5}
+        - {x: -21, y: -17.5}
+        - {x: -18, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 21, y: -11.5}
+        - {x: 21, y: 22.5}
+        - {x: 20, y: 24.5}
+    - name: segundo sprite_66
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 600
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 24}
+        - {x: -22.5, y: 14}
+        - {x: -22.5, y: -5}
+        - {x: -14.5, y: -24}
+        - {x: 22.5, y: -24}
+        - {x: 22.5, y: 24}
+    - name: segundo sprite_67
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 604
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -25, y: 16}
+        - {x: -25, y: -1}
+        - {x: -24, y: -2}
+        - {x: -19, y: -2}
+        - {x: -18, y: -1}
+        - {x: -6, y: -1}
+        - {x: -3, y: 2}
+        - {x: -3, y: -3}
+        - {x: -7, y: -1}
+        - {x: -17, y: -1}
+        - {x: -24, y: -10}
+        - {x: -22, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+    - name: segundo sprite_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 602
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -10}
+        - {x: -9, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 22}
+        - {x: 23, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 21}
+    - name: segundo sprite_69
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 603
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -12.5}
+        - {x: 6, y: -22.5}
+        - {x: 25, y: -22.5}
+        - {x: 25, y: 22.5}
+    - name: segundo sprite_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 528
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -20}
+        - {x: 1.5, y: -23}
+        - {x: 19.5, y: -23}
+        - {x: 19.5, y: 9}
+        - {x: 8.5, y: 23}
+        - {x: -14.5, y: 23}
+        - {x: -19.5, y: 17}
+        - {x: -19.5, y: -23}
+        - {x: -3.5, y: -23}
+        - {x: -1.5, y: -21}
+        - {x: 0.5, y: -11}
+        - {x: 0.5, y: -10}
+    - name: segundo sprite_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 528
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 25}
+        - {x: -18, y: 25}
+        - {x: -23, y: 17}
+        - {x: -23, y: 4}
+        - {x: -20, y: -25}
+        - {x: 23, y: -25}
+        - {x: 23, y: 8}
+        - {x: 9, y: 24}
+    - name: segundo sprite_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 526
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -31.5}
+        - {x: 19.5, y: -31.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 18.5}
+        - {x: 11.5, y: 31.5}
+        - {x: -2.5, y: 31.5}
+        - {x: -10.5, y: 22.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -31.5}
+        - {x: -5.5, y: -31.5}
+        - {x: -2.5, y: -28.5}
+        - {x: -1.5, y: -25.5}
+        - {x: -1.5, y: -27.5}
+    - name: segundo sprite_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 526
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 31.5}
+        - {x: -14, y: 31.5}
+        - {x: -39, y: 10.5}
+        - {x: -39, y: -14.5}
+        - {x: -36, y: -19.5}
+        - {x: -33, y: -18.5}
+        - {x: -24, y: -12.5}
+        - {x: -35, y: -20.5}
+        - {x: -38, y: -31.5}
+        - {x: 10, y: -31.5}
+        - {x: 39, y: -20.5}
+        - {x: 39, y: 20.5}
+        - {x: 32, y: 29.5}
+    - name: segundo sprite_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 529
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 30}
+        - {x: -41.5, y: 20}
+        - {x: -43.5, y: 16}
+        - {x: -43.5, y: -30}
+        - {x: 43.5, y: -30}
+        - {x: 43.5, y: 8}
+        - {x: 20.5, y: 30}
+    - name: segundo sprite_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 529
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 22}
+        - {x: 36.5, y: 16}
+        - {x: 3.5, y: 24}
+        - {x: -41.5, y: 24}
+        - {x: -45.5, y: 19}
+        - {x: -45.5, y: 2}
+        - {x: -39.5, y: -24}
+        - {x: 43.5, y: -24}
+        - {x: 45.5, y: -22}
+        - {x: 45.5, y: 8}
+    - name: segundo sprite_76
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 529
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 3.5}
+        - {x: 23.5, y: 24.5}
+        - {x: -41.5, y: 24.5}
+        - {x: -41.5, y: -24.5}
+        - {x: 41.5, y: -24.5}
+    - name: segundo sprite_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 529
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -22.5}
+        - {x: 35, y: -14.5}
+        - {x: 13, y: 22.5}
+        - {x: -17, y: 22.5}
+        - {x: -35, y: 16.5}
+        - {x: -35, y: -3.5}
+        - {x: -32, y: -6.5}
+        - {x: -35, y: -18.5}
+        - {x: -35, y: -22.5}
+        - {x: 6, y: -22.5}
+        - {x: 8, y: -20.5}
+        - {x: 28, y: -22.5}
+    - name: segundo sprite_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 529
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 22.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -19.5, y: 17.5}
+        - {x: -29.5, y: 0.5}
+        - {x: -29.5, y: -22.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 29.5, y: -19.5}
+        - {x: 29.5, y: -9.5}
+    - name: segundo sprite_79
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 530
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -12.5}
+        - {x: -4, y: -13.5}
+        - {x: -4, y: -17.5}
+        - {x: -2, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 16, y: -20.5}
+        - {x: 26, y: -16.5}
+        - {x: 26, y: -10.5}
+        - {x: 18, y: 16.5}
+        - {x: 15, y: 22.5}
+        - {x: -1, y: 22.5}
+        - {x: -4, y: 21.5}
+        - {x: -19, y: 12.5}
+        - {x: -26, y: -14.5}
+        - {x: -26, y: -22.5}
+        - {x: -9, y: -22.5}
+        - {x: -6, y: -19.5}
+        - {x: -4, y: -14.5}
+        - {x: -3, y: -10.5}
+    - name: segundo sprite_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 530
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -12.5}
+        - {x: -0.5, y: -13.5}
+        - {x: -0.5, y: -17.5}
+        - {x: 1.5, y: -22.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: 22.5}
+        - {x: -8.5, y: 22.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -5.5, y: -22.5}
+        - {x: -2.5, y: -19.5}
+        - {x: -0.5, y: -14.5}
+        - {x: 0.5, y: -10.5}
+    - name: segundo sprite_81
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 532
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 22.5}
+        - {x: -24.5, y: 8.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -19.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 14.5, y: 22.5}
+    - name: segundo sprite_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22.5}
+        - {x: -20, y: 13.5}
+        - {x: -25, y: 9.5}
+        - {x: -33, y: -11.5}
+        - {x: -33, y: -22.5}
+        - {x: 12, y: -22.5}
+        - {x: 33, y: -4.5}
+        - {x: 33, y: 18.5}
+        - {x: 13, y: 22.5}
+    - name: segundo sprite_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 465
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 8.5}
+        - {x: 7.5, y: 22.5}
+        - {x: -24.5, y: 22.5}
+        - {x: -41.5, y: 15.5}
+        - {x: -41.5, y: -22.5}
+        - {x: 1.5, y: -22.5}
+        - {x: 39.5, y: -8.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 41.5, y: 6.5}
+    - name: segundo sprite_84
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 465
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 10.5}
+        - {x: 21.5, y: 22.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -20.5, y: 18.5}
+        - {x: -28.5, y: 1.5}
+        - {x: -28.5, y: -9.5}
+        - {x: -25.5, y: -10.5}
+        - {x: -14.5, y: -22.5}
+        - {x: 28.5, y: -22.5}
+    - name: segundo sprite_85
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 478
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23}
+        - {x: -33.5, y: 9}
+        - {x: -33.5, y: -9}
+        - {x: -14.5, y: -23}
+        - {x: 33.5, y: -23}
+        - {x: 33.5, y: 12}
+        - {x: 23.5, y: 23}
+    - name: segundo sprite_87
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 464
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23}
+        - {x: -31.5, y: 9}
+        - {x: -31.5, y: -2}
+        - {x: -18.5, y: -6}
+        - {x: -8.5, y: -23}
+        - {x: 31.5, y: -23}
+        - {x: 31.5, y: 7}
+        - {x: 22.5, y: 23}
+    - name: segundo sprite_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 464
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 23}
+        - {x: -26.5, y: 10}
+        - {x: -26.5, y: -4}
+        - {x: -16.5, y: -23}
+        - {x: 26.5, y: -23}
+        - {x: 26.5, y: 11}
+        - {x: 12.5, y: 23}
+    - name: segundo sprite_89
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 465
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 22.5}
+        - {x: -24.5, y: 8.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -19.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 14.5, y: 22.5}
+    - name: segundo sprite_90
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 464
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -10, y: 20}
+        - {x: -10, y: 15}
+        - {x: -10, y: 16}
+        - {x: -12, y: 22}
+        - {x: -20, y: 21}
+        - {x: -22, y: 18}
+        - {x: -22, y: 4}
+        - {x: -20, y: -8}
+        - {x: -18, y: -23}
+        - {x: 22, y: -23}
+        - {x: 22, y: 15}
+        - {x: 15, y: 23}
+    - name: segundo sprite_91
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 464
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 23}
+        - {x: -20.5, y: 15}
+        - {x: -20.5, y: -22}
+        - {x: -17.5, y: -23}
+        - {x: 20.5, y: -23}
+        - {x: 20.5, y: -6}
+        - {x: 18.5, y: 6}
+        - {x: 7.5, y: 23}
+    - name: segundo sprite_92
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 464
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 23}
+        - {x: -21.5, y: 20}
+        - {x: -21.5, y: -14}
+        - {x: -19.5, y: -22}
+        - {x: -16.5, y: -23}
+        - {x: -0.5, y: -23}
+        - {x: 1.5, y: -21}
+        - {x: 1.5, y: -18}
+        - {x: 1.5, y: -20}
+        - {x: 5.5, y: -23}
+        - {x: 21.5, y: -23}
+        - {x: 21.5, y: 3}
+        - {x: 12.5, y: 23}
+    - name: segundo sprite_93
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 25}
+        - {x: -18, y: 25}
+        - {x: -23, y: 17}
+        - {x: -23, y: 4}
+        - {x: -20, y: -25}
+        - {x: 23, y: -25}
+        - {x: 23, y: 8}
+        - {x: 9, y: 24}
+    - name: segundo sprite_94
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 393
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -29.5}
+        - {x: 24, y: -29.5}
+        - {x: 27, y: -28.5}
+        - {x: 27, y: 15.5}
+        - {x: 5, y: 29.5}
+        - {x: -27, y: 29.5}
+        - {x: -27, y: -5.5}
+        - {x: -23, y: -29.5}
+        - {x: 0, y: -29.5}
+        - {x: 3, y: -26.5}
+        - {x: 4, y: -22.5}
+        - {x: 5, y: -26.5}
+    - name: segundo sprite_95
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 388
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 31}
+        - {x: 25, y: 32}
+        - {x: -37, y: 32}
+        - {x: -38, y: 29}
+        - {x: -37, y: 26}
+        - {x: -28, y: 25}
+        - {x: -47, y: 7}
+        - {x: -48, y: 4}
+        - {x: -48, y: -32}
+        - {x: 4, y: -32}
+        - {x: 48, y: -19}
+        - {x: 48, y: 6}
+        - {x: 46, y: 14}
+    - name: segundo sprite_96
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 381
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 35.5}
+        - {x: -11.5, y: 32.5}
+        - {x: 18.5, y: 16.5}
+        - {x: -16.5, y: 32.5}
+        - {x: -34.5, y: 29.5}
+        - {x: -51.5, y: 23.5}
+        - {x: -51.5, y: -35.5}
+        - {x: 42.5, y: -35.5}
+        - {x: 51.5, y: -30.5}
+        - {x: 51.5, y: 6.5}
+        - {x: 46.5, y: 15.5}
+        - {x: 35.5, y: 27.5}
+        - {x: 16.5, y: 35.5}
+    - name: segundo sprite_97
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 386
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 33}
+        - {x: -52, y: -31}
+        - {x: -26, y: -33}
+        - {x: 44, y: -33}
+        - {x: 52, y: -28}
+        - {x: 52, y: 25}
+        - {x: 42, y: 33}
+    - name: segundo sprite_98
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 35}
+        - {x: -43, y: 35}
+        - {x: -52, y: 4}
+        - {x: -52, y: -33}
+        - {x: -29, y: -35}
+        - {x: 42, y: -35}
+        - {x: 52, y: -26}
+        - {x: 52, y: 5}
+        - {x: 43, y: 19}
+    - name: segundo sprite_99
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 385
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -33.5}
+        - {x: 36, y: -33.5}
+        - {x: 36, y: -14.5}
+        - {x: 22, y: 18.5}
+        - {x: 2, y: 33.5}
+        - {x: -16, y: 33.5}
+        - {x: -36, y: -14.5}
+    - name: segundo sprite_100
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 385
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27.5}
+        - {x: -21, y: 16.5}
+        - {x: -29, y: -9.5}
+        - {x: -29, y: -25.5}
+        - {x: -9, y: -27.5}
+        - {x: 29, y: -27.5}
+        - {x: 29, y: 1.5}
+        - {x: 27, y: 17.5}
+        - {x: 25, y: 27.5}
+    - name: segundo sprite_101
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 389
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 21.5}
+        - {x: -26.5, y: -6.5}
+        - {x: -26.5, y: -19.5}
+        - {x: -16.5, y: -19.5}
+        - {x: -8.5, y: -17.5}
+        - {x: -4.5, y: -14.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 26.5, y: 12.5}
+        - {x: 25.5, y: 21.5}
+    - name: segundo sprite_102
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 393
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 19.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -25.5, y: -19.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 19.5}
+    - name: segundo sprite_103
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 394
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 19.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -25.5, y: -19.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 19.5}
+    - name: segundo sprite_104
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 393
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 22}
+        - {x: -20.5, y: 2}
+        - {x: -20.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 20.5, y: 22}
+    - name: segundo sprite_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 313
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 23.5}
+        - {x: -44, y: 3.5}
+        - {x: -44, y: -9.5}
+        - {x: -42, y: -23.5}
+        - {x: 42, y: -23.5}
+        - {x: 44, y: -22.5}
+        - {x: 44, y: 20.5}
+        - {x: 32, y: 23.5}
+    - name: segundo sprite_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 313
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 23}
+        - {x: -45, y: 18}
+        - {x: -45, y: -23}
+        - {x: 45, y: -23}
+        - {x: 45, y: 1}
+        - {x: 26, y: 23}
+    - name: segundo sprite_107
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 313
+        width: 101
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24}
+        - {x: -26.5, y: 19}
+        - {x: -26.5, y: 17}
+        - {x: -22.5, y: 12}
+        - {x: -21.5, y: 10}
+        - {x: -30.5, y: 20}
+        - {x: -44.5, y: 20}
+        - {x: -50.5, y: 7}
+        - {x: -50.5, y: -24}
+        - {x: 50.5, y: -24}
+        - {x: 50.5, y: 16}
+        - {x: 28.5, y: 24}
+    - name: segundo sprite_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 337
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 313
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 24.5}
+        - {x: -39.5, y: 15.5}
+        - {x: -37.5, y: 12.5}
+        - {x: -51.5, y: 13.5}
+        - {x: -51.5, y: -24.5}
+        - {x: 38.5, y: -24.5}
+        - {x: 40.5, y: -23.5}
+        - {x: 40.5, y: -3.5}
+        - {x: 22.5, y: 24.5}
+      - - {x: 44.5, y: 8.5}
+        - {x: 44.5, y: -10.5}
+        - {x: 47.5, y: -18.5}
+        - {x: 51.5, y: -18.5}
+        - {x: 51.5, y: 12.5}
+        - {x: 48.5, y: 12.5}
+    - name: segundo sprite_110
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 313
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 23}
+        - {x: -42.5, y: -16}
+        - {x: -28.5, y: -23}
+        - {x: 42.5, y: -23}
+        - {x: 42.5, y: 4}
+        - {x: 29.5, y: 23}
+      - - {x: -42.5, y: -5}
+        - {x: -42.5, y: -12}
+        - {x: -40.5, y: -14}
+        - {x: -38.5, y: -14}
+        - {x: -36.5, y: -12}
+        - {x: -36.5, y: -11}
+        - {x: -40.5, y: -5}
+      - - {x: -41.5, y: 11}
+        - {x: -42.5, y: 10}
+        - {x: -42.5, y: 2}
+        - {x: -39.5, y: 3}
+        - {x: -36.5, y: 7}
+        - {x: -36.5, y: 9}
+        - {x: -37.5, y: 11}
+    - name: segundo sprite_111
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 139
+        width: 319
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: -111}
+        - {x: 128.5, y: -109}
+        - {x: 159.5, y: -42}
+        - {x: 159.5, y: 73}
+        - {x: -2.5, y: 105}
+        - {x: -4.5, y: 99}
+        - {x: -4.5, y: 92}
+        - {x: -4.5, y: 94}
+        - {x: -9.5, y: 99}
+        - {x: -25.5, y: 111}
+        - {x: -94.5, y: 111}
+        - {x: -159.5, y: 95}
+        - {x: -159.5, y: 62}
+        - {x: -132.5, y: 32}
+        - {x: -124.5, y: 29}
+        - {x: -113.5, y: 25}
+        - {x: -110.5, y: 25}
+        - {x: -109.5, y: 24}
+        - {x: -106.5, y: 24}
+        - {x: -120.5, y: 25}
+        - {x: -121.5, y: 26}
+        - {x: -148.5, y: 32}
+        - {x: -159.5, y: 34}
+        - {x: -159.5, y: 27}
+        - {x: -153.5, y: 20}
+        - {x: -143.5, y: -111}
+        - {x: -56.5, y: -111}
+        - {x: -40.5, y: -79}
+        - {x: 8.5, y: -109}
+        - {x: 25.5, y: -111}
+    - name: segundo sprite_112
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 321
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_113
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 26.5}
+        - {x: -7.5, y: 26.5}
+        - {x: -17.5, y: 16.5}
+        - {x: -17.5, y: -18.5}
+        - {x: -6.5, y: -26.5}
+        - {x: 15.5, y: -26.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 17.5, y: 8.5}
+        - {x: 14.5, y: 21.5}
+    - name: segundo sprite_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 237
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: -19, y: 24}
+        - {x: -19, y: -15}
+        - {x: -12, y: -24}
+        - {x: 19, y: -24}
+        - {x: 19, y: 14}
+    - name: segundo sprite_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 230
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 229
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 232
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 26}
+        - {x: -14.5, y: 22}
+        - {x: -17.5, y: 6}
+        - {x: -17.5, y: -25}
+        - {x: -16.5, y: -26}
+        - {x: 2.5, y: -26}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 16}
+        - {x: 7.5, y: 26}
+    - name: segundo sprite_121
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 237
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -19, y: 20}
+        - {x: -19, y: -24}
+        - {x: 11, y: -24}
+        - {x: 12, y: -13}
+        - {x: 19, y: 11}
+        - {x: 19, y: 24}
+    - name: segundo sprite_122
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 232
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: segundo sprite_123
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 235
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 25.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -14.5, y: -25.5}
+        - {x: 9.5, y: -25.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 16.5, y: 23.5}
+        - {x: 12.5, y: 25.5}
+    - name: segundo sprite_124
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 249
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -20}
+        - {x: -15, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -19}
+        - {x: 16, y: 24}
+    - name: segundo sprite_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 261
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 14.5}
+        - {x: -17, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 15, y: -22.5}
+        - {x: 17, y: -21.5}
+        - {x: 17, y: 23.5}
+        - {x: 0, y: 23.5}
+        - {x: -14, y: 17.5}
+    - name: segundo sprite_126
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 264
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -20.5, y: -18.5}
+        - {x: -17.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 21.5, y: -9.5}
+        - {x: 21.5, y: 13.5}
+        - {x: 14.5, y: 22.5}
+    - name: segundo sprite_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 50.5}
+        - {x: -23.5, y: 50.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 31.5, y: 22.5}
+        - {x: 24.5, y: 47.5}
+    - name: segundo sprite_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 50.5}
+        - {x: -23.5, y: 50.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 31.5, y: 22.5}
+        - {x: 24.5, y: 47.5}
+    - name: segundo sprite_129
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 119
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 50.5}
+        - {x: -23.5, y: 50.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 31.5, y: 22.5}
+        - {x: 24.5, y: 47.5}
+    - name: segundo sprite_130
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 120
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 50.5}
+        - {x: -23.5, y: 50.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 31.5, y: 22.5}
+        - {x: 24.5, y: 47.5}
+    - name: segundo sprite_131
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 118
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 50.5}
+        - {x: -23.5, y: 50.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 31.5, y: 22.5}
+        - {x: 24.5, y: 47.5}
+    - name: segundo sprite_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 117
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 50.5}
+        - {x: -29.5, y: 50.5}
+        - {x: -31.5, y: 42.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -26.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 31.5, y: 22.5}
+        - {x: 24.5, y: 47.5}
+    - name: segundo sprite_133
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 117
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 50.5}
+        - {x: -33, y: 47.5}
+        - {x: -33, y: -36.5}
+        - {x: -30, y: -50.5}
+        - {x: 33, y: -50.5}
+        - {x: 33, y: 42.5}
+        - {x: 19, y: 50.5}
+    - name: segundo sprite_134
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 116
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 50.5}
+        - {x: -33, y: 47.5}
+        - {x: -33, y: -36.5}
+        - {x: -30, y: -50.5}
+        - {x: 33, y: -50.5}
+        - {x: 33, y: 42.5}
+        - {x: 19, y: 50.5}
+    - name: segundo sprite_135
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 13.5}
+        - {x: 37.5, y: 31.5}
+        - {x: 35.5, y: 40.5}
+        - {x: 30.5, y: 45.5}
+        - {x: 24.5, y: 45.5}
+        - {x: 18.5, y: 51.5}
+        - {x: -27.5, y: 51.5}
+        - {x: -37.5, y: 40.5}
+        - {x: -37.5, y: -51.5}
+        - {x: 30.5, y: -51.5}
+        - {x: 37.5, y: -33.5}
+        - {x: 37.5, y: -23.5}
+        - {x: 33.5, y: -18.5}
+    - name: segundo sprite_136
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 13.5}
+        - {x: 37.5, y: 31.5}
+        - {x: 35.5, y: 40.5}
+        - {x: 30.5, y: 45.5}
+        - {x: 24.5, y: 45.5}
+        - {x: 18.5, y: 51.5}
+        - {x: -27.5, y: 51.5}
+        - {x: -37.5, y: 40.5}
+        - {x: -37.5, y: -51.5}
+        - {x: 30.5, y: -51.5}
+        - {x: 37.5, y: -33.5}
+        - {x: 37.5, y: -23.5}
+        - {x: 33.5, y: -18.5}
+    - name: segundo sprite_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 46}
+        - {x: -39, y: 10}
+        - {x: -35, y: -34}
+        - {x: -4, y: -46}
+        - {x: 19, y: -46}
+        - {x: 39, y: 8}
+        - {x: 39, y: 42}
+        - {x: 34, y: 46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2169 @@
+fileFormatVersion: 2
+guid: 3fd12241e2491784f944ee6a7585b26a
+timeCreated: 1456526554
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_forehorseman__x1_idle_png_1355170558_0
+    21300002: npc_forehorseman__x1_idle_png_1355170558_1
+    21300004: npc_forehorseman__x1_idle_png_1355170558_2
+    21300006: npc_forehorseman__x1_idle_png_1355170558_3
+    21300008: npc_forehorseman__x1_idle_png_1355170558_4
+    21300010: npc_forehorseman__x1_idle_png_1355170558_5
+    21300012: npc_forehorseman__x1_idle_png_1355170558_6
+    21300014: npc_forehorseman__x1_idle_png_1355170558_7
+    21300016: npc_forehorseman__x1_idle_png_1355170558_8
+    21300018: npc_forehorseman__x1_idle_png_1355170558_9
+    21300020: npc_forehorseman__x1_idle_png_1355170558_10
+    21300022: npc_forehorseman__x1_idle_png_1355170558_11
+    21300024: npc_forehorseman__x1_idle_png_1355170558_12
+    21300026: npc_forehorseman__x1_idle_png_1355170558_13
+    21300028: npc_forehorseman__x1_idle_png_1355170558_14
+    21300030: npc_forehorseman__x1_idle_png_1355170558_15
+    21300032: npc_forehorseman__x1_idle_png_1355170558_16
+    21300034: npc_forehorseman__x1_idle_png_1355170558_17
+    21300036: npc_forehorseman__x1_idle_png_1355170558_18
+    21300038: npc_forehorseman__x1_idle_png_1355170558_19
+    21300040: npc_forehorseman__x1_idle_png_1355170558_20
+    21300042: npc_forehorseman__x1_idle_png_1355170558_21
+    21300044: npc_forehorseman__x1_idle_png_1355170558_22
+    21300046: npc_forehorseman__x1_idle_png_1355170558_23
+    21300048: npc_forehorseman__x1_idle_png_1355170558_24
+    21300050: npc_forehorseman__x1_idle_png_1355170558_25
+    21300052: npc_forehorseman__x1_idle_png_1355170558_26
+    21300054: npc_forehorseman__x1_idle_png_1355170558_27
+    21300056: npc_forehorseman__x1_idle_png_1355170558_28
+    21300058: npc_forehorseman__x1_idle_png_1355170558_29
+    21300060: npc_forehorseman__x1_idle_png_1355170558_30
+    21300062: npc_forehorseman__x1_idle_png_1355170558_31
+    21300064: npc_forehorseman__x1_idle_png_1355170558_32
+    21300066: npc_forehorseman__x1_idle_png_1355170558_33
+    21300068: npc_forehorseman__x1_idle_png_1355170558_34
+    21300070: npc_forehorseman__x1_idle_png_1355170558_35
+    21300072: npc_forehorseman__x1_idle_png_1355170558_36
+    21300074: npc_forehorseman__x1_idle_png_1355170558_37
+    21300076: npc_forehorseman__x1_idle_png_1355170558_38
+    21300078: npc_forehorseman__x1_idle_png_1355170558_39
+    21300080: npc_forehorseman__x1_idle_png_1355170558_40
+    21300082: npc_forehorseman__x1_idle_png_1355170558_41
+    21300084: npc_forehorseman__x1_idle_png_1355170558_42
+    21300086: npc_forehorseman__x1_idle_png_1355170558_43
+    21300088: npc_forehorseman__x1_idle_png_1355170558_44
+    21300090: npc_forehorseman__x1_idle_png_1355170558_45
+    21300092: npc_forehorseman__x1_idle_png_1355170558_46
+    21300094: npc_forehorseman__x1_idle_png_1355170558_47
+    21300096: npc_forehorseman__x1_idle_png_1355170558_48
+    21300098: npc_forehorseman__x1_idle_png_1355170558_49
+    21300100: npc_forehorseman__x1_idle_png_1355170558_50
+    21300102: npc_forehorseman__x1_idle_png_1355170558_51
+    21300104: npc_forehorseman__x1_idle_png_1355170558_52
+    21300106: npc_forehorseman__x1_idle_png_1355170558_53
+    21300108: npc_forehorseman__x1_idle_png_1355170558_54
+    21300110: npc_forehorseman__x1_idle_png_1355170558_55
+    21300112: npc_forehorseman__x1_idle_png_1355170558_56
+    21300114: npc_forehorseman__x1_idle_png_1355170558_57
+    21300116: npc_forehorseman__x1_idle_png_1355170558_58
+    21300118: npc_forehorseman__x1_idle_png_1355170558_59
+    21300120: npc_forehorseman__x1_idle_png_1355170558_60
+    21300122: npc_forehorseman__x1_idle_png_1355170558_61
+    21300124: npc_forehorseman__x1_idle_png_1355170558_62
+    21300126: npc_forehorseman__x1_idle_png_1355170558_63
+    21300128: npc_forehorseman__x1_idle_png_1355170558_64
+    21300130: npc_forehorseman__x1_idle_png_1355170558_65
+    21300132: npc_forehorseman__x1_idle_png_1355170558_66
+    21300134: npc_forehorseman__x1_idle_png_1355170558_67
+    21300136: npc_forehorseman__x1_idle_png_1355170558_68
+    21300138: npc_forehorseman__x1_idle_png_1355170558_69
+    21300140: npc_forehorseman__x1_idle_png_1355170558_70
+    21300142: npc_forehorseman__x1_idle_png_1355170558_71
+    21300144: npc_forehorseman__x1_idle_png_1355170558_72
+    21300146: npc_forehorseman__x1_idle_png_1355170558_73
+    21300148: npc_forehorseman__x1_idle_png_1355170558_74
+    21300150: npc_forehorseman__x1_idle_png_1355170558_75
+    21300152: npc_forehorseman__x1_idle_png_1355170558_76
+    21300154: npc_forehorseman__x1_idle_png_1355170558_77
+    21300156: npc_forehorseman__x1_idle_png_1355170558_78
+    21300158: npc_forehorseman__x1_idle_png_1355170558_79
+    21300160: npc_forehorseman__x1_idle_png_1355170558_80
+    21300162: npc_forehorseman__x1_idle_png_1355170558_81
+    21300164: npc_forehorseman__x1_idle_png_1355170558_82
+    21300166: npc_forehorseman__x1_idle_png_1355170558_83
+    21300168: npc_forehorseman__x1_idle_png_1355170558_84
+    21300170: npc_forehorseman__x1_idle_png_1355170558_85
+    21300172: npc_forehorseman__x1_idle_png_1355170558_86
+    21300174: npc_forehorseman__x1_idle_png_1355170558_87
+    21300176: npc_forehorseman__x1_idle_png_1355170558_88
+    21300178: npc_forehorseman__x1_idle_png_1355170558_89
+    21300180: npc_forehorseman__x1_idle_png_1355170558_90
+    21300182: npc_forehorseman__x1_idle_png_1355170558_91
+    21300184: npc_forehorseman__x1_idle_png_1355170558_92
+    21300186: npc_forehorseman__x1_idle_png_1355170558_93
+    21300188: npc_forehorseman__x1_idle_png_1355170558_94
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_forehorseman__x1_idle_png_1355170558_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3635
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.76889, y: 51.67688}
+        - {x: -11.23111, y: 51.67688}
+        - {x: -42.23111, y: 30.67688}
+        - {x: -48.23111, y: -3.32312}
+        - {x: -48.23111, y: -15.32312}
+        - {x: -12.23111, y: -50.32312}
+        - {x: 21.76889, y: -50.32312}
+        - {x: 24.76889, y: -48.32312}
+        - {x: 48.76889, y: -17.32312}
+        - {x: 48.76889, y: 2.67688}
+    - name: npc_forehorseman__x1_idle_png_1355170558_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3635
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.688637, y: 51.67688}
+        - {x: -11.311363, y: 51.67688}
+        - {x: -42.311363, y: 30.67688}
+        - {x: -48.311363, y: -3.32312}
+        - {x: -48.311363, y: -15.32312}
+        - {x: -12.311363, y: -50.32312}
+        - {x: 21.688637, y: -50.32312}
+        - {x: 24.688637, y: -48.32312}
+        - {x: 48.688637, y: -17.32312}
+        - {x: 48.688637, y: 2.67688}
+    - name: npc_forehorseman__x1_idle_png_1355170558_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3635
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.608383, y: 51.67688}
+        - {x: -9.391617, y: 51.67688}
+        - {x: -48.391617, y: 25.67688}
+        - {x: -48.391617, y: -50.32312}
+        - {x: 38.608383, y: -50.32312}
+        - {x: 48.608383, y: -25.32312}
+        - {x: 48.608383, y: 23.67688}
+    - name: npc_forehorseman__x1_idle_png_1355170558_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3635
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.528137, y: 51.67688}
+        - {x: -17.471863, y: 51.67688}
+        - {x: -48.471863, y: 29.67688}
+        - {x: -48.471863, y: 28.67688}
+        - {x: -37.471863, y: 16.67688}
+        - {x: -48.471863, y: -1.3231201}
+        - {x: -48.471863, y: -14.32312}
+        - {x: -13.471863, y: -50.32312}
+        - {x: 39.528137, y: -50.32312}
+        - {x: 48.528137, y: -25.32312}
+        - {x: 48.528137, y: 23.67688}
+    - name: npc_forehorseman__x1_idle_png_1355170558_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3635
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.447876, y: 51.67688}
+        - {x: -47.552124, y: 51.67688}
+        - {x: -47.552124, y: -32.32312}
+        - {x: -17.552124, y: -50.32312}
+        - {x: 27.447876, y: -50.32312}
+        - {x: 49.447876, y: -18.32312}
+        - {x: 49.447876, y: 2.67688}
+    - name: npc_forehorseman__x1_idle_png_1355170558_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3434
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.76889, y: 50.92102}
+        - {x: -21.23111, y: 50.92102}
+        - {x: -48.23111, y: 34.92102}
+        - {x: -33.23111, y: 27.92102}
+        - {x: -25.23111, y: 25.92102}
+        - {x: -22.23111, y: 26.92102}
+        - {x: -48.23111, y: 2.9210205}
+        - {x: -48.23111, y: -35.07898}
+        - {x: -28.23111, y: -50.07898}
+        - {x: 21.76889, y: -50.07898}
+        - {x: 48.76889, y: -13.0789795}
+        - {x: 48.76889, y: 14.9210205}
+    - name: npc_forehorseman__x1_idle_png_1355170558_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3434
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.311363, y: 50.92102}
+        - {x: -48.311363, y: -36.07898}
+        - {x: -29.311363, y: -50.07898}
+        - {x: 21.688637, y: -50.07898}
+        - {x: 48.688637, y: -10.0789795}
+        - {x: 48.688637, y: 9.9210205}
+        - {x: 19.688637, y: 50.92102}
+    - name: npc_forehorseman__x1_idle_png_1355170558_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3434
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.608383, y: 50.92102}
+        - {x: -21.391617, y: 50.92102}
+        - {x: -34.391617, y: 37.92102}
+        - {x: -35.391617, y: 32.92102}
+        - {x: -32.391617, y: 28.92102}
+        - {x: -27.391617, y: 24.92102}
+        - {x: -48.391617, y: -1.0789795}
+        - {x: -48.391617, y: -26.07898}
+        - {x: -27.391617, y: -50.07898}
+        - {x: 20.608383, y: -50.07898}
+        - {x: 48.608383, y: -10.0789795}
+        - {x: 48.608383, y: -1.0789795}
+        - {x: 43.608383, y: 2.9210205}
+    - name: npc_forehorseman__x1_idle_png_1355170558_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3434
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.528137, y: 50.92102}
+        - {x: -9.471863, y: 50.92102}
+        - {x: -38.471863, y: 38.92102}
+        - {x: -35.471863, y: 31.92102}
+        - {x: -32.471863, y: 26.92102}
+        - {x: -22.471863, y: 25.92102}
+        - {x: -48.471863, y: 1.9210205}
+        - {x: -48.471863, y: -24.07898}
+        - {x: -26.471863, y: -50.07898}
+        - {x: 21.528137, y: -50.07898}
+        - {x: 48.528137, y: -10.0789795}
+        - {x: 48.528137, y: 7.9210205}
+    - name: npc_forehorseman__x1_idle_png_1355170558_9
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3434
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.447876, y: 50.92102}
+        - {x: -47.552124, y: 50.92102}
+        - {x: -47.552124, y: -34.07898}
+        - {x: -26.552124, y: -50.07898}
+        - {x: 21.447876, y: -50.07898}
+        - {x: 49.447876, y: -12.0789795}
+        - {x: 49.447876, y: 6.9210205}
+    - name: npc_forehorseman__x1_idle_png_1355170558_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3232
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.23111, y: 51.13147}
+        - {x: -48.23111, y: 16.13147}
+        - {x: -48.23111, y: -31.86853}
+        - {x: -29.23111, y: -49.86853}
+        - {x: 26.76889, y: -49.86853}
+        - {x: 48.76889, y: -13.86853}
+        - {x: 48.76889, y: 3.1314697}
+        - {x: 28.76889, y: 51.13147}
+    - name: npc_forehorseman__x1_idle_png_1355170558_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3232
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.311363, y: 51.13147}
+        - {x: -48.311363, y: -22.86853}
+        - {x: -26.311363, y: -49.86853}
+        - {x: 26.688637, y: -49.86853}
+        - {x: 48.688637, y: -14.86853}
+        - {x: 48.688637, y: 3.1314697}
+        - {x: 26.688637, y: 51.13147}
+    - name: npc_forehorseman__x1_idle_png_1355170558_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3232
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.391617, y: 51.13147}
+        - {x: -48.391617, y: -22.86853}
+        - {x: -26.391617, y: -49.86853}
+        - {x: 26.608383, y: -49.86853}
+        - {x: 48.608383, y: -14.86853}
+        - {x: 48.608383, y: 3.1314697}
+        - {x: 26.608383, y: 51.13147}
+    - name: npc_forehorseman__x1_idle_png_1355170558_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3232
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.471863, y: 51.13147}
+        - {x: -48.471863, y: -22.86853}
+        - {x: -26.471863, y: -49.86853}
+        - {x: 26.528137, y: -49.86853}
+        - {x: 48.528137, y: -14.86853}
+        - {x: 48.528137, y: 3.1314697}
+        - {x: 26.528137, y: 51.13147}
+    - name: npc_forehorseman__x1_idle_png_1355170558_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3232
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.552124, y: 51.13147}
+        - {x: -47.552124, y: -20.86853}
+        - {x: -24.552124, y: -49.86853}
+        - {x: 27.447876, y: -49.86853}
+        - {x: 49.447876, y: -12.86853}
+        - {x: 49.447876, y: 1.1314697}
+        - {x: 27.447876, y: 51.13147}
+    - name: npc_forehorseman__x1_idle_png_1355170558_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3029
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.23111, y: 50.80847}
+        - {x: -34.23111, y: 37.80847}
+        - {x: -35.23111, y: 34.80847}
+        - {x: -36.23111, y: 29.808472}
+        - {x: -28.23111, y: 24.808472}
+        - {x: -44.23111, y: -0.19152832}
+        - {x: -48.23111, y: -7.1915283}
+        - {x: -48.23111, y: -18.191528}
+        - {x: -21.23111, y: -50.19153}
+        - {x: 28.76889, y: -50.19153}
+        - {x: 48.76889, y: -18.191528}
+        - {x: 48.76889, y: 4.8084717}
+        - {x: 23.76889, y: 50.80847}
+    - name: npc_forehorseman__x1_idle_png_1355170558_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3029
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.3113632, y: 50.80847}
+        - {x: -20.311363, y: 45.80847}
+        - {x: -34.311363, y: 37.80847}
+        - {x: -35.311363, y: 34.80847}
+        - {x: -36.311363, y: 29.808472}
+        - {x: -28.311363, y: 24.808472}
+        - {x: -44.311363, y: -0.19152832}
+        - {x: -48.311363, y: -7.1915283}
+        - {x: -48.311363, y: -18.191528}
+        - {x: -21.311363, y: -50.19153}
+        - {x: 27.688637, y: -50.19153}
+        - {x: 48.688637, y: -16.191528}
+        - {x: 48.688637, y: 0.8084717}
+        - {x: 20.688637, y: 50.80847}
+    - name: npc_forehorseman__x1_idle_png_1355170558_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3029
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.391617, y: 50.80847}
+        - {x: -36.391617, y: 35.80847}
+        - {x: -36.391617, y: 29.808472}
+        - {x: -28.391617, y: 24.808472}
+        - {x: -44.391617, y: -0.19152832}
+        - {x: -48.391617, y: -7.1915283}
+        - {x: -48.391617, y: -17.191528}
+        - {x: -15.391617, y: -50.19153}
+        - {x: 21.608383, y: -50.19153}
+        - {x: 48.608383, y: -11.191528}
+        - {x: 48.608383, y: 10.808472}
+        - {x: 23.608383, y: 50.80847}
+    - name: npc_forehorseman__x1_idle_png_1355170558_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3029
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.471863, y: 50.80847}
+        - {x: -36.471863, y: 35.80847}
+        - {x: -36.471863, y: 29.808472}
+        - {x: -28.471863, y: 24.808472}
+        - {x: -44.471863, y: -0.19152832}
+        - {x: -48.471863, y: -7.1915283}
+        - {x: -48.471863, y: -17.191528}
+        - {x: -15.471863, y: -50.19153}
+        - {x: 21.528137, y: -50.19153}
+        - {x: 48.528137, y: -11.191528}
+        - {x: 48.528137, y: 10.808472}
+        - {x: 23.528137, y: 50.80847}
+    - name: npc_forehorseman__x1_idle_png_1355170558_19
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3029
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.447876, y: -24.191528}
+        - {x: 49.447876, y: -17.191528}
+        - {x: 49.447876, y: 6.8084717}
+        - {x: 25.447876, y: 50.80847}
+        - {x: -21.552124, y: 50.80847}
+        - {x: -32.552124, y: 37.80847}
+        - {x: -33.552124, y: 34.80847}
+        - {x: -34.552124, y: 29.808472}
+        - {x: -26.552124, y: 24.808472}
+        - {x: -47.552124, y: -4.1915283}
+        - {x: -47.552124, y: -14.191528}
+        - {x: -11.552124, y: -50.19153}
+        - {x: 17.447876, y: -50.19153}
+        - {x: 24.447876, y: -47.19153}
+        - {x: 29.447876, y: -31.191528}
+        - {x: 29.447876, y: -29.191528}
+    - name: npc_forehorseman__x1_idle_png_1355170558_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2827
+        width: 178
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.336113, y: -26.48108}
+        - {x: 27.336113, y: -26.48108}
+        - {x: 36.336113, y: -28.48108}
+        - {x: 48.336113, y: -14.481079}
+        - {x: 48.336113, y: 12.518921}
+        - {x: 18.336113, y: 51.51892}
+        - {x: -17.663887, y: 51.51892}
+        - {x: -42.663887, y: 36.51892}
+        - {x: -47.663887, y: 27.51892}
+        - {x: -47.663887, y: -28.48108}
+        - {x: -32.663887, y: -50.48108}
+        - {x: 25.336113, y: -50.48108}
+        - {x: 31.336113, y: -30.48108}
+        - {x: 27.336113, y: -28.48108}
+        - {x: 23.336113, y: -24.48108}
+    - name: npc_forehorseman__x1_idle_png_1355170558_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2827
+        width: 176
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.75586, y: 51.51892}
+        - {x: -13.244141, y: 51.51892}
+        - {x: -42.24414, y: 36.51892}
+        - {x: -34.24414, y: 25.51892}
+        - {x: -47.24414, y: 6.518921}
+        - {x: -47.24414, y: -27.48108}
+        - {x: -29.24414, y: -50.48108}
+        - {x: 25.75586, y: -50.48108}
+        - {x: 47.75586, y: -14.481079}
+        - {x: 47.75586, y: -5.481079}
+        - {x: 43.75586, y: -1.4810791}
+    - name: npc_forehorseman__x1_idle_png_1355170558_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2827
+        width: 174
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.242828, y: 51.01892}
+        - {x: -21.757172, y: 51.01892}
+        - {x: -33.75717, y: 40.01892}
+        - {x: -36.75717, y: 31.01892}
+        - {x: -31.757172, y: 29.01892}
+        - {x: -25.757172, y: 27.01892}
+        - {x: -46.75717, y: -5.981079}
+        - {x: -46.75717, y: -23.98108}
+        - {x: -19.757172, y: -47.98108}
+        - {x: -16.757172, y: -49.98108}
+        - {x: 23.242828, y: -49.98108}
+        - {x: 47.24283, y: -14.981079}
+        - {x: 47.24283, y: 3.018921}
+    - name: npc_forehorseman__x1_idle_png_1355170558_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2827
+        width: 172
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.729797, y: 50.51892}
+        - {x: -23.270203, y: 50.51892}
+        - {x: -40.270203, y: 42.51892}
+        - {x: -46.270203, y: 22.51892}
+        - {x: -46.270203, y: -21.48108}
+        - {x: -24.270203, y: -49.48108}
+        - {x: 24.729797, y: -49.48108}
+        - {x: 46.729797, y: -25.48108}
+        - {x: 46.729797, y: 5.518921}
+        - {x: 23.729797, y: 49.51892}
+    - name: npc_forehorseman__x1_idle_png_1355170558_24
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2827
+        width: 174
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.350464, y: 50.01892}
+        - {x: -46.350464, y: 30.01892}
+        - {x: -46.350464, y: -37.98108}
+        - {x: -30.350464, y: -48.98108}
+        - {x: 39.649536, y: -48.98108}
+        - {x: 46.649536, y: -31.98108}
+        - {x: 46.649536, y: 19.01892}
+        - {x: 17.649536, y: 50.01892}
+    - name: npc_forehorseman__x1_idle_png_1355170558_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2626
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.096664, y: 50.26306}
+        - {x: -47.096664, y: 3.2630615}
+        - {x: -47.096664, y: -35.73694}
+        - {x: -28.096664, y: -49.73694}
+        - {x: 29.903336, y: -49.73694}
+        - {x: 47.903336, y: -21.736938}
+        - {x: 47.903336, y: 31.263062}
+        - {x: 32.903336, y: 50.26306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2626
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.188637, y: -7.7369385}
+        - {x: 46.188637, y: 44.26306}
+        - {x: 37.188637, y: 51.26306}
+        - {x: -14.811363, y: 51.26306}
+        - {x: -45.811363, y: 21.263062}
+        - {x: -45.811363, y: -23.736938}
+        - {x: -23.811363, y: -50.73694}
+        - {x: 0.18863678, y: -50.73694}
+        - {x: 1.1886368, y: -45.73694}
+        - {x: 18.188637, y: -50.73694}
+        - {x: 20.188637, y: -50.73694}
+    - name: npc_forehorseman__x1_idle_png_1355170558_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2626
+        width: 161
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.189957, y: 52.26306}
+        - {x: -43.189957, y: 31.263062}
+        - {x: -43.189957, y: -25.736938}
+        - {x: -29.189957, y: -51.73694}
+        - {x: 30.810043, y: -51.73694}
+        - {x: 43.810043, y: -38.73694}
+        - {x: 43.810043, y: 37.26306}
+        - {x: 30.810043, y: 52.26306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_28
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2626
+        width: 153
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.001312, y: 52.76306}
+        - {x: -38.001312, y: 22.763062}
+        - {x: -41.001312, y: 15.763062}
+        - {x: -41.001312, y: -15.236938}
+        - {x: -19.001312, y: -48.23694}
+        - {x: -13.001312, y: -52.23694}
+        - {x: 31.998688, y: -52.23694}
+        - {x: 41.998688, y: -34.23694}
+        - {x: 41.998688, y: 30.763062}
+        - {x: 15.998688, y: 52.76306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_29
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2626
+        width: 152
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.452057, y: 52.76306}
+        - {x: -19.547943, y: 52.76306}
+        - {x: -40.547943, y: 19.763062}
+        - {x: -40.547943, y: -30.236938}
+        - {x: -18.547943, y: -52.23694}
+        - {x: 35.452057, y: -52.23694}
+        - {x: 42.452057, y: -22.236938}
+        - {x: 42.452057, y: 36.76306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2424
+        width: 152
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.27306, y: 52.973633}
+        - {x: -10.72694, y: 52.973633}
+        - {x: -40.72694, y: 35.973633}
+        - {x: -40.72694, y: -23.026367}
+        - {x: -14.72694, y: -52.026367}
+        - {x: -2.7269402, y: -52.026367}
+        - {x: -1.7269402, y: -47.026367}
+        - {x: 14.27306, y: -52.026367}
+        - {x: 41.27306, y: -52.026367}
+    - name: npc_forehorseman__x1_idle_png_1355170558_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2424
+        width: 157
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.091972, y: 42.973633}
+        - {x: 10.091972, y: 52.973633}
+        - {x: -5.9080276, y: 52.973633}
+        - {x: -9.908028, y: 50.973633}
+        - {x: -40.908028, y: 23.973633}
+        - {x: -41.908028, y: 20.973633}
+        - {x: -41.908028, y: -11.026367}
+        - {x: -13.908028, y: -52.026367}
+        - {x: 35.091972, y: -52.026367}
+        - {x: 43.091972, y: -40.026367}
+        - {x: 43.091972, y: 32.973633}
+    - name: npc_forehorseman__x1_idle_png_1355170558_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2422
+        width: 169
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.189957, y: 52.906372}
+        - {x: -45.189957, y: 15.906372}
+        - {x: -45.189957, y: -6.093628}
+        - {x: -43.189957, y: -15.093628}
+        - {x: -18.189957, y: -52.093628}
+        - {x: 28.810043, y: -52.093628}
+        - {x: 45.810043, y: -47.093628}
+        - {x: 45.810043, y: 52.906372}
+    - name: npc_forehorseman__x1_idle_png_1355170558_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2424
+        width: 171
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.095337, y: 37.973633}
+        - {x: 16.095337, y: 51.973633}
+        - {x: -12.904663, y: 51.973633}
+        - {x: -45.904663, y: 9.973633}
+        - {x: -45.904663, y: -15.026367}
+        - {x: -23.904663, y: -45.026367}
+        - {x: -13.904663, y: -51.026367}
+        - {x: 24.095337, y: -51.026367}
+        - {x: 46.095337, y: -16.026367}
+        - {x: 46.095337, y: 27.973633}
+    - name: npc_forehorseman__x1_idle_png_1355170558_34
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2424
+        width: 167
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.984894, y: 51.473633}
+        - {x: -44.984894, y: 25.473633}
+        - {x: -44.984894, y: -21.526367}
+        - {x: -26.984894, y: -50.526367}
+        - {x: 35.015106, y: -50.526367}
+        - {x: 45.015106, y: -13.526367}
+        - {x: 45.015106, y: 39.473633}
+        - {x: 22.015106, y: 51.473633}
+    - name: npc_forehorseman__x1_idle_png_1355170558_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2222
+        width: 159
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.53778, y: -31.315796}
+        - {x: 43.53778, y: -15.315796}
+        - {x: 43.53778, y: 35.684204}
+        - {x: 23.53778, y: 51.684204}
+        - {x: -12.462219, y: 51.684204}
+        - {x: -42.46222, y: 28.684204}
+        - {x: -42.46222, y: -9.315796}
+        - {x: -11.462219, y: -50.315796}
+        - {x: -0.46221924, y: -50.315796}
+        - {x: 1.5377808, y: -44.315796}
+        - {x: 12.537781, y: -48.315796}
+        - {x: 23.53778, y: -46.315796}
+    - name: npc_forehorseman__x1_idle_png_1355170558_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2222
+        width: 155
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.591972, y: 51.684204}
+        - {x: -11.408028, y: 51.684204}
+        - {x: -37.408028, y: 24.684204}
+        - {x: -41.408028, y: 12.684204}
+        - {x: -41.408028, y: -11.315796}
+        - {x: -12.408028, y: -50.315796}
+        - {x: 34.591972, y: -50.315796}
+        - {x: 42.591972, y: -38.315796}
+        - {x: 42.591972, y: 39.684204}
+    - name: npc_forehorseman__x1_idle_png_1355170558_37
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2222
+        width: 154
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.612549, y: -28.315796}
+        - {x: 41.61255, y: -0.3157959}
+        - {x: 41.61255, y: 37.684204}
+        - {x: 29.612549, y: 48.684204}
+        - {x: 14.612549, y: 51.684204}
+        - {x: -16.387451, y: 51.684204}
+        - {x: -41.38745, y: 35.684204}
+        - {x: -41.38745, y: -22.315796}
+        - {x: -32.38745, y: -50.315796}
+        - {x: -2.3874512, y: -50.315796}
+        - {x: -1.3874512, y: -44.315796}
+        - {x: 9.612549, y: -48.315796}
+        - {x: 17.612549, y: -48.315796}
+    - name: npc_forehorseman__x1_idle_png_1355170558_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2222
+        width: 152
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.032288, y: -31.315796}
+        - {x: 41.032288, y: -4.315796}
+        - {x: 41.032288, y: 40.684204}
+        - {x: 24.032288, y: 51.684204}
+        - {x: -17.967712, y: 51.684204}
+        - {x: -40.967712, y: 33.684204}
+        - {x: -40.967712, y: -20.315796}
+        - {x: -24.967712, y: -50.315796}
+        - {x: -1.9677124, y: -50.315796}
+        - {x: -0.9677124, y: -44.315796}
+        - {x: 16.032288, y: -50.315796}
+        - {x: 21.032288, y: -50.315796}
+    - name: npc_forehorseman__x1_idle_png_1355170558_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2222
+        width: 153
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.918427, y: -15.315796}
+        - {x: 41.918427, y: 40.684204}
+        - {x: 17.918427, y: 51.684204}
+        - {x: -24.081573, y: 51.684204}
+        - {x: -41.081573, y: 38.684204}
+        - {x: -41.081573, y: -12.315796}
+        - {x: -38.081573, y: -24.315796}
+        - {x: -13.0815735, y: -50.315796}
+        - {x: -2.0815735, y: -50.315796}
+        - {x: -0.08157349, y: -44.315796}
+        - {x: 10.9184265, y: -48.315796}
+        - {x: 18.918427, y: -48.315796}
+    - name: npc_forehorseman__x1_idle_png_1355170558_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2019
+        width: 163
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.53778, y: 21.361084}
+        - {x: 31.53778, y: 18.361084}
+        - {x: 31.53778, y: 21.361084}
+        - {x: 37.53778, y: 21.361084}
+        - {x: 40.53778, y: 22.361084}
+        - {x: 44.53778, y: 26.361084}
+        - {x: 44.53778, y: 34.361084}
+        - {x: 17.53778, y: 51.361084}
+        - {x: -9.462219, y: 51.361084}
+        - {x: -43.46222, y: 29.361084}
+        - {x: -43.46222, y: -10.638916}
+        - {x: -22.46222, y: -50.638916}
+        - {x: 13.537781, y: -50.638916}
+        - {x: 23.53778, y: -47.638916}
+        - {x: 35.53778, y: -28.638916}
+        - {x: 44.53778, y: 0.36108398}
+        - {x: 44.53778, y: 21.361084}
+    - name: npc_forehorseman__x1_idle_png_1355170558_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2019
+        width: 169
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.75586, y: 21.361084}
+        - {x: 36.75586, y: 21.361084}
+        - {x: 32.75586, y: 18.361084}
+        - {x: 35.75586, y: 21.361084}
+        - {x: 40.75586, y: 21.361084}
+        - {x: 44.75586, y: 24.361084}
+        - {x: 45.75586, y: 25.361084}
+        - {x: 45.75586, y: 39.361084}
+        - {x: 31.75586, y: 51.361084}
+        - {x: -13.244141, y: 51.361084}
+        - {x: -45.24414, y: 28.361084}
+        - {x: -45.24414, y: -12.638916}
+        - {x: -12.244141, y: -50.638916}
+        - {x: 28.75586, y: -50.638916}
+        - {x: 45.75586, y: -18.638916}
+        - {x: 45.75586, y: 18.361084}
+    - name: npc_forehorseman__x1_idle_png_1355170558_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2019
+        width: 165
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.675598, y: 51.361084}
+        - {x: -8.324402, y: 51.361084}
+        - {x: -44.3244, y: 15.361084}
+        - {x: -44.3244, y: -0.638916}
+        - {x: -36.3244, y: -16.638916}
+        - {x: -14.324402, y: -50.638916}
+        - {x: 29.675598, y: -50.638916}
+        - {x: 44.6756, y: -39.638916}
+        - {x: 44.6756, y: 37.361084}
+        - {x: 31.675598, y: 46.361084}
+    - name: npc_forehorseman__x1_idle_png_1355170558_43
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2019
+        width: 159
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.702972, y: 51.361084}
+        - {x: -42.702972, y: 21.361084}
+        - {x: -42.702972, y: -33.638916}
+        - {x: -23.702972, y: -50.638916}
+        - {x: 28.297028, y: -50.638916}
+        - {x: 43.297028, y: -38.638916}
+        - {x: 43.297028, y: 46.361084}
+        - {x: 32.297028, y: 51.361084}
+    - name: npc_forehorseman__x1_idle_png_1355170558_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2019
+        width: 155
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.351196, y: 51.361084}
+        - {x: -10.648804, y: 51.361084}
+        - {x: -24.648804, y: 43.361084}
+        - {x: -41.648804, y: 24.361084}
+        - {x: -41.648804, y: -20.638916}
+        - {x: -16.648804, y: -50.638916}
+        - {x: 24.351196, y: -50.638916}
+        - {x: 42.351196, y: -17.638916}
+        - {x: 42.351196, y: 39.361084}
+    - name: npc_forehorseman__x1_idle_png_1355170558_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1817
+        width: 152
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.72694, y: 51.571594}
+        - {x: -40.72694, y: 16.571594}
+        - {x: -40.72694, y: -5.428406}
+        - {x: -29.72694, y: -14.428406}
+        - {x: -23.72694, y: -34.428406}
+        - {x: -14.72694, y: -50.428406}
+        - {x: 30.27306, y: -50.428406}
+        - {x: 41.27306, y: -12.428406}
+        - {x: 41.27306, y: 43.571594}
+        - {x: 20.27306, y: 51.571594}
+    - name: npc_forehorseman__x1_idle_png_1355170558_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1817
+        width: 152
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.807198, y: 51.571594}
+        - {x: -40.807198, y: 41.571594}
+        - {x: -40.807198, y: -28.428406}
+        - {x: -23.807198, y: -50.428406}
+        - {x: 22.192802, y: -50.428406}
+        - {x: 41.192802, y: -24.428406}
+        - {x: 41.192802, y: 37.571594}
+        - {x: 27.192802, y: 51.571594}
+    - name: npc_forehorseman__x1_idle_png_1355170558_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1817
+        width: 155
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.578934, y: 51.571594}
+        - {x: -23.421066, y: 51.571594}
+        - {x: -41.421066, y: 26.571594}
+        - {x: -41.421066, y: -19.428406}
+        - {x: -29.421066, y: -38.428406}
+        - {x: -15.421066, y: -50.428406}
+        - {x: 23.578934, y: -50.428406}
+        - {x: 42.578934, y: -17.428406}
+        - {x: 42.578934, y: 48.571594}
+    - name: npc_forehorseman__x1_idle_png_1355170558_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1817
+        width: 176
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.662567, y: 14.571594}
+        - {x: 43.662567, y: 24.571594}
+        - {x: 45.662567, y: 32.571594}
+        - {x: 22.662567, y: 51.571594}
+        - {x: -12.337433, y: 51.571594}
+        - {x: -47.337433, y: 27.571594}
+        - {x: -47.337433, y: -13.428406}
+        - {x: -26.337433, y: -50.428406}
+        - {x: 29.662567, y: -50.428406}
+        - {x: 47.662567, y: -5.428406}
+        - {x: 47.662567, y: 12.571594}
+        - {x: 42.662567, y: 14.571594}
+    - name: npc_forehorseman__x1_idle_png_1355170558_49
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1817
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.552124, y: 51.571594}
+        - {x: -47.552124, y: 8.571594}
+        - {x: -47.552124, y: -42.428406}
+        - {x: -28.552124, y: -50.428406}
+        - {x: 47.447876, y: -50.428406}
+        - {x: 49.447876, y: -42.428406}
+        - {x: 49.447876, y: 49.571594}
+        - {x: 46.447876, y: 51.571594}
+    - name: npc_forehorseman__x1_idle_png_1355170558_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1616
+        width: 176
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.76889, y: -46.184265}
+        - {x: 28.76889, y: -30.184265}
+        - {x: 28.76889, y: -29.184265}
+        - {x: 24.76889, y: -25.184265}
+        - {x: 23.76889, y: -21.184265}
+        - {x: 25.76889, y: -25.184265}
+        - {x: 27.76889, y: -27.184265}
+        - {x: 29.76889, y: -27.184265}
+        - {x: 36.76889, y: -24.184265}
+        - {x: 47.76889, y: -11.184265}
+        - {x: 47.76889, y: -1.1842651}
+        - {x: 45.76889, y: 2.8157349}
+        - {x: 36.76889, y: 2.8157349}
+        - {x: 47.76889, y: 25.815735}
+        - {x: 47.76889, y: 33.815735}
+        - {x: 20.76889, y: 50.815735}
+        - {x: -8.23111, y: 50.815735}
+        - {x: -47.23111, y: -3.1842651}
+        - {x: -47.23111, y: -14.184265}
+        - {x: -14.23111, y: -50.184265}
+        - {x: 0.7688904, y: -50.184265}
+        - {x: -1.2311096, y: -45.184265}
+        - {x: 7.7688904, y: -50.184265}
+        - {x: 11.76889, y: -50.184265}
+    - name: npc_forehorseman__x1_idle_png_1355170558_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1616
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.323082, y: 50.815735}
+        - {x: -9.676918, y: 50.815735}
+        - {x: -37.676918, y: 8.815735}
+        - {x: -46.676918, y: -9.184265}
+        - {x: -46.676918, y: -28.184265}
+        - {x: -22.676918, y: -50.184265}
+        - {x: 19.323082, y: -50.184265}
+        - {x: 47.323082, y: -29.184265}
+        - {x: 47.323082, y: 33.815735}
+    - name: npc_forehorseman__x1_idle_png_1355170558_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1616
+        width: 172
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.810043, y: -50.184265}
+        - {x: 46.810043, y: -31.184265}
+        - {x: 46.810043, y: 43.815735}
+        - {x: 40.810043, y: 50.815735}
+        - {x: -19.189957, y: 50.815735}
+        - {x: -46.189957, y: -2.1842651}
+        - {x: -46.189957, y: -34.184265}
+        - {x: -18.189957, y: -50.184265}
+        - {x: -1.1899567, y: -50.184265}
+        - {x: -3.1899567, y: -45.184265}
+        - {x: 8.810043, y: -49.184265}
+        - {x: 13.810043, y: -50.184265}
+    - name: npc_forehorseman__x1_idle_png_1355170558_53
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1616
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.162567, y: 50.815735}
+        - {x: -31.837433, y: 50.815735}
+        - {x: -46.837433, y: 35.815735}
+        - {x: -46.837433, y: -24.184265}
+        - {x: -33.837433, y: -36.184265}
+        - {x: -16.837433, y: -50.184265}
+        - {x: 3.1625671, y: -50.184265}
+        - {x: 22.162567, y: -47.184265}
+        - {x: 47.162567, y: -24.184265}
+        - {x: 47.162567, y: 45.815735}
+    - name: npc_forehorseman__x1_idle_png_1355170558_54
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1616
+        width: 176
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.917694, y: 50.815735}
+        - {x: -46.917694, y: -3.1842651}
+        - {x: -46.917694, y: -34.184265}
+        - {x: -30.917694, y: -50.184265}
+        - {x: 28.082306, y: -50.184265}
+        - {x: 47.082306, y: -14.184265}
+        - {x: 47.082306, y: 35.815735}
+        - {x: 37.082306, y: 50.815735}
+    - name: npc_forehorseman__x1_idle_png_1355170558_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1414
+        width: 178
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.663887, y: 51.526306}
+        - {x: -47.663887, y: -2.4736938}
+        - {x: -47.663887, y: -26.473694}
+        - {x: -20.663887, y: -50.473694}
+        - {x: 29.336113, y: -50.473694}
+        - {x: 48.336113, y: -25.473694}
+        - {x: 48.336113, y: 34.526306}
+        - {x: 32.336113, y: 51.526306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1414
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.311363, y: 51.526306}
+        - {x: -48.311363, y: -1.4736938}
+        - {x: -48.311363, y: -25.473694}
+        - {x: -26.311363, y: -50.473694}
+        - {x: 31.688637, y: -50.473694}
+        - {x: 48.688637, y: -30.473694}
+        - {x: 48.688637, y: 43.526306}
+        - {x: 29.688637, y: 51.526306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1414
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.391617, y: 51.526306}
+        - {x: -48.391617, y: -1.4736938}
+        - {x: -48.391617, y: -24.473694}
+        - {x: -22.391617, y: -50.473694}
+        - {x: 28.608383, y: -50.473694}
+        - {x: 48.608383, y: -36.473694}
+        - {x: 48.608383, y: 37.526306}
+        - {x: 24.608383, y: 51.526306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_58
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1414
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.471863, y: 51.526306}
+        - {x: -48.471863, y: -1.4736938}
+        - {x: -48.471863, y: -24.473694}
+        - {x: -22.471863, y: -50.473694}
+        - {x: 28.528137, y: -50.473694}
+        - {x: 48.528137, y: -36.473694}
+        - {x: 48.528137, y: 37.526306}
+        - {x: 24.528137, y: 51.526306}
+    - name: npc_forehorseman__x1_idle_png_1355170558_59
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1414
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.447876, y: -19.473694}
+        - {x: 49.447876, y: 38.526306}
+        - {x: 26.447876, y: 51.526306}
+        - {x: -11.552124, y: 51.526306}
+        - {x: -47.552124, y: -3.4736938}
+        - {x: -47.552124, y: -22.473694}
+        - {x: -15.552124, y: -49.473694}
+        - {x: -12.552124, y: -50.473694}
+        - {x: 0.44787598, y: -50.473694}
+        - {x: 0.44787598, y: -45.473694}
+        - {x: 20.447876, y: -50.473694}
+        - {x: 21.447876, y: -50.473694}
+    - name: npc_forehorseman__x1_idle_png_1355170558_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1212
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.76889, y: -15.263184}
+        - {x: 48.76889, y: 34.736816}
+        - {x: 37.76889, y: 43.736816}
+        - {x: 10.76889, y: 51.736816}
+        - {x: -12.23111, y: 51.736816}
+        - {x: -48.23111, y: 3.7368164}
+        - {x: -48.23111, y: -27.263184}
+        - {x: -21.23111, y: -50.263184}
+        - {x: -2.2311096, y: -50.263184}
+        - {x: -0.23110962, y: -44.263184}
+        - {x: 10.76889, y: -49.263184}
+        - {x: 23.76889, y: -49.263184}
+    - name: npc_forehorseman__x1_idle_png_1355170558_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1212
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.688637, y: -15.263184}
+        - {x: 48.688637, y: 34.736816}
+        - {x: 37.688637, y: 43.736816}
+        - {x: 10.688637, y: 51.736816}
+        - {x: -12.311363, y: 51.736816}
+        - {x: -48.311363, y: 3.7368164}
+        - {x: -48.311363, y: -27.263184}
+        - {x: -21.311363, y: -50.263184}
+        - {x: -2.3113632, y: -50.263184}
+        - {x: -0.31136322, y: -44.263184}
+        - {x: 10.688637, y: -49.263184}
+        - {x: 23.688637, y: -49.263184}
+    - name: npc_forehorseman__x1_idle_png_1355170558_62
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1212
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.391617, y: 51.736816}
+        - {x: -48.391617, y: -3.2631836}
+        - {x: -48.391617, y: -25.263184}
+        - {x: -30.391617, y: -50.263184}
+        - {x: 32.608383, y: -50.263184}
+        - {x: 48.608383, y: -11.263184}
+        - {x: 48.608383, y: 40.736816}
+        - {x: 20.608383, y: 51.736816}
+    - name: npc_forehorseman__x1_idle_png_1355170558_63
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1212
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.528137, y: -21.763184}
+        - {x: 48.528137, y: 32.236816}
+        - {x: 34.528137, y: 51.236816}
+        - {x: -25.471863, y: 51.236816}
+        - {x: -48.471863, y: 28.236816}
+        - {x: -48.471863, y: -24.763184}
+        - {x: -28.471863, y: -49.763184}
+        - {x: -2.4718628, y: -49.763184}
+        - {x: -0.4718628, y: -43.763184}
+        - {x: 10.528137, y: -48.763184}
+        - {x: 23.528137, y: -48.763184}
+    - name: npc_forehorseman__x1_idle_png_1355170558_64
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1212
+        width: 180
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.447876, y: -17.763184}
+        - {x: 49.447876, y: 12.236816}
+        - {x: 37.447876, y: 51.236816}
+        - {x: -18.552124, y: 51.236816}
+        - {x: -47.552124, y: 0.2368164}
+        - {x: -47.552124, y: -19.763184}
+        - {x: -12.552124, y: -49.763184}
+        - {x: -0.552124, y: -49.763184}
+        - {x: 1.447876, y: -43.763184}
+        - {x: 12.447876, y: -48.763184}
+        - {x: 25.447876, y: -48.763184}
+    - name: npc_forehorseman__x1_idle_png_1355170558_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1009
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.76889, y: 2.9137573}
+        - {x: 25.76889, y: 33.913757}
+        - {x: 17.76889, y: 50.913757}
+        - {x: -33.23111, y: 50.913757}
+        - {x: -48.23111, y: 4.9137573}
+        - {x: -48.23111, y: -22.086243}
+        - {x: -30.23111, y: -50.086243}
+        - {x: 28.76889, y: -50.086243}
+        - {x: 48.76889, y: -19.086243}
+        - {x: 48.76889, y: -0.086242676}
+        - {x: 44.76889, y: 3.9137573}
+    - name: npc_forehorseman__x1_idle_png_1355170558_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1009
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.311363, y: 50.913757}
+        - {x: -48.311363, y: 43.913757}
+        - {x: -48.311363, y: -28.086243}
+        - {x: -31.311363, y: -50.086243}
+        - {x: 28.688637, y: -50.086243}
+        - {x: 48.688637, y: -14.086243}
+        - {x: 48.688637, y: 0.9137573}
+        - {x: 19.688637, y: 50.913757}
+    - name: npc_forehorseman__x1_idle_png_1355170558_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1009
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.391617, y: 51.413757}
+        - {x: -23.391617, y: 48.413757}
+        - {x: -35.391617, y: 31.413757}
+        - {x: -32.391617, y: 20.413757}
+        - {x: -48.391617, y: 2.4137573}
+        - {x: -48.391617, y: -22.586243}
+        - {x: -30.391617, y: -50.586243}
+        - {x: 29.608383, y: -50.586243}
+        - {x: 48.608383, y: -14.586243}
+        - {x: 48.608383, y: 8.413757}
+        - {x: 18.608383, y: 51.413757}
+    - name: npc_forehorseman__x1_idle_png_1355170558_68
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1009
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.471863, y: 51.913757}
+        - {x: -37.471863, y: 37.913757}
+        - {x: -35.471863, y: 18.913757}
+        - {x: -30.471863, y: 15.913757}
+        - {x: -48.471863, y: 6.9137573}
+        - {x: -48.471863, y: -26.086243}
+        - {x: -36.471863, y: -51.086243}
+        - {x: 28.528137, y: -51.086243}
+        - {x: 48.528137, y: -23.086243}
+        - {x: 48.528137, y: 6.9137573}
+        - {x: 21.528137, y: 51.913757}
+    - name: npc_forehorseman__x1_idle_png_1355170558_69
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1009
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.447876, y: 51.913757}
+        - {x: -16.552124, y: 51.913757}
+        - {x: -34.552124, y: 17.913757}
+        - {x: -29.552124, y: 9.913757}
+        - {x: -47.552124, y: -4.0862427}
+        - {x: -47.552124, y: -22.086243}
+        - {x: -28.552124, y: -51.086243}
+        - {x: 29.447876, y: -51.086243}
+        - {x: 49.447876, y: -16.086243}
+        - {x: 49.447876, y: 2.9137573}
+        - {x: 45.447876, y: 14.913757}
+    - name: npc_forehorseman__x1_idle_png_1355170558_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 807
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.23111, y: 52.124268}
+        - {x: -48.23111, y: 18.124268}
+        - {x: -48.23111, y: -33.875732}
+        - {x: -25.23111, y: -50.875732}
+        - {x: 39.76889, y: -50.875732}
+        - {x: 48.76889, y: -18.875732}
+        - {x: 48.76889, y: 32.124268}
+        - {x: 19.76889, y: 52.124268}
+    - name: npc_forehorseman__x1_idle_png_1355170558_71
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 807
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.688637, y: 52.124268}
+        - {x: -6.311363, y: 52.124268}
+        - {x: -34.311363, y: 28.124268}
+        - {x: -34.311363, y: 13.124268}
+        - {x: -30.311363, y: 11.124268}
+        - {x: -48.311363, y: 0.12426758}
+        - {x: -48.311363, y: -21.875732}
+        - {x: -22.311363, y: -50.875732}
+        - {x: 26.688637, y: -50.875732}
+        - {x: 48.688637, y: -15.875732}
+        - {x: 48.688637, y: 4.1242676}
+        - {x: 44.688637, y: 14.124268}
+    - name: npc_forehorseman__x1_idle_png_1355170558_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 807
+        width: 180
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.608383, y: 52.124268}
+        - {x: -14.391617, y: 52.124268}
+        - {x: -43.391617, y: 16.124268}
+        - {x: -48.391617, y: 11.124268}
+        - {x: -48.391617, y: -16.875732}
+        - {x: -39.391617, y: -34.875732}
+        - {x: -16.391617, y: -50.875732}
+        - {x: 24.608383, y: -50.875732}
+        - {x: 48.608383, y: -20.875732}
+        - {x: 48.608383, y: 7.1242676}
+    - name: npc_forehorseman__x1_idle_png_1355170558_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 807
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.471863, y: 51.624268}
+        - {x: -24.471863, y: 39.624268}
+        - {x: -37.471863, y: 22.624268}
+        - {x: -33.471863, y: 14.624268}
+        - {x: -23.471863, y: 15.624268}
+        - {x: -48.471863, y: 1.6242676}
+        - {x: -48.471863, y: -21.375732}
+        - {x: -22.471863, y: -50.375732}
+        - {x: 26.528137, y: -50.375732}
+        - {x: 48.528137, y: -17.375732}
+        - {x: 48.528137, y: 1.6242676}
+        - {x: 21.528137, y: 51.624268}
+    - name: npc_forehorseman__x1_idle_png_1355170558_74
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 807
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.447876, y: 45.624268}
+        - {x: 18.447876, y: 51.624268}
+        - {x: -13.552124, y: 51.624268}
+        - {x: -35.552124, y: 25.624268}
+        - {x: -47.552124, y: 11.624268}
+        - {x: -47.552124, y: -21.375732}
+        - {x: -39.552124, y: -37.375732}
+        - {x: -17.552124, y: -50.375732}
+        - {x: 39.447876, y: -50.375732}
+        - {x: 49.447876, y: -25.375732}
+        - {x: 49.447876, y: 21.624268}
+    - name: npc_forehorseman__x1_idle_png_1355170558_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 606
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.76889, y: 50.86841}
+        - {x: -5.2311096, y: 50.86841}
+        - {x: -26.23111, y: 40.86841}
+        - {x: -44.23111, y: 18.868408}
+        - {x: -48.23111, y: 12.868408}
+        - {x: -48.23111, y: -34.13159}
+        - {x: -27.23111, y: -50.13159}
+        - {x: 21.76889, y: -50.13159}
+        - {x: 48.76889, y: -11.131592}
+        - {x: 48.76889, y: 5.868408}
+    - name: npc_forehorseman__x1_idle_png_1355170558_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 606
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.688637, y: 50.86841}
+        - {x: -11.311363, y: 50.86841}
+        - {x: -41.311363, y: 33.86841}
+        - {x: -39.311363, y: 23.868408}
+        - {x: -33.311363, y: 19.868408}
+        - {x: -48.311363, y: -4.131592}
+        - {x: -48.311363, y: -24.131592}
+        - {x: -25.311363, y: -50.13159}
+        - {x: 21.688637, y: -50.13159}
+        - {x: 48.688637, y: -11.131592}
+        - {x: 48.688637, y: 5.868408}
+    - name: npc_forehorseman__x1_idle_png_1355170558_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 606
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.391617, y: 50.86841}
+        - {x: -22.391617, y: 42.86841}
+        - {x: -37.391617, y: 32.86841}
+        - {x: -41.391617, y: 22.868408}
+        - {x: -27.391617, y: 19.868408}
+        - {x: -48.391617, y: 1.8684082}
+        - {x: -48.391617, y: -25.131592}
+        - {x: -29.391617, y: -50.13159}
+        - {x: 25.608383, y: -50.13159}
+        - {x: 48.608383, y: -12.131592}
+        - {x: 48.608383, y: 5.868408}
+        - {x: 13.608383, y: 50.86841}
+    - name: npc_forehorseman__x1_idle_png_1355170558_78
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 606
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.471863, y: 50.86841}
+        - {x: -47.471863, y: 34.86841}
+        - {x: -48.471863, y: 27.868408}
+        - {x: -48.471863, y: -25.131592}
+        - {x: -29.471863, y: -50.13159}
+        - {x: 25.528137, y: -50.13159}
+        - {x: 48.528137, y: -12.131592}
+        - {x: 48.528137, y: 7.868408}
+        - {x: 24.528137, y: 50.86841}
+    - name: npc_forehorseman__x1_idle_png_1355170558_79
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 606
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.552124, y: 50.86841}
+        - {x: -47.552124, y: 35.86841}
+        - {x: -47.552124, y: -45.13159}
+        - {x: -43.552124, y: -50.13159}
+        - {x: 39.447876, y: -50.13159}
+        - {x: 49.447876, y: -33.13159}
+        - {x: 49.447876, y: 10.868408}
+        - {x: 27.447876, y: 50.86841}
+    - name: npc_forehorseman__x1_idle_png_1355170558_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 404
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.76889, y: 5.5789337}
+        - {x: 12.76889, y: 51.578934}
+        - {x: -9.23111, y: 51.578934}
+        - {x: -39.23111, y: 29.578934}
+        - {x: -39.23111, y: 21.578934}
+        - {x: -24.23111, y: 16.578934}
+        - {x: -48.23111, y: -4.4210663}
+        - {x: -48.23111, y: -22.421066}
+        - {x: -21.23111, y: -50.421066}
+        - {x: 19.76889, y: -50.421066}
+        - {x: 40.76889, y: -27.421066}
+        - {x: 48.76889, y: -11.421066}
+    - name: npc_forehorseman__x1_idle_png_1355170558_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 404
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.311363, y: 51.578934}
+        - {x: -48.311363, y: 34.578934}
+        - {x: -48.311363, y: -36.421066}
+        - {x: -43.311363, y: -50.421066}
+        - {x: 34.688637, y: -50.421066}
+        - {x: 48.688637, y: -41.421066}
+        - {x: 48.688637, y: 11.578934}
+        - {x: 13.688637, y: 51.578934}
+    - name: npc_forehorseman__x1_idle_png_1355170558_82
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 404
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.391617, y: 51.578934}
+        - {x: -48.391617, y: 34.578934}
+        - {x: -48.391617, y: -36.421066}
+        - {x: -43.391617, y: -50.421066}
+        - {x: 34.608383, y: -50.421066}
+        - {x: 48.608383, y: -41.421066}
+        - {x: 48.608383, y: 11.578934}
+        - {x: 13.608383, y: 51.578934}
+    - name: npc_forehorseman__x1_idle_png_1355170558_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 404
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.471863, y: 51.578934}
+        - {x: -48.471863, y: 34.578934}
+        - {x: -48.471863, y: -36.421066}
+        - {x: -43.471863, y: -50.421066}
+        - {x: 34.528137, y: -50.421066}
+        - {x: 48.528137, y: -41.421066}
+        - {x: 48.528137, y: 11.578934}
+        - {x: 13.528137, y: 51.578934}
+    - name: npc_forehorseman__x1_idle_png_1355170558_84
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 404
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.447876, y: 51.578934}
+        - {x: -43.552124, y: 51.578934}
+        - {x: -47.552124, y: 43.578934}
+        - {x: -47.552124, y: -39.421066}
+        - {x: -25.552124, y: -50.421066}
+        - {x: 21.447876, y: -50.421066}
+        - {x: 49.447876, y: -19.421066}
+        - {x: 49.447876, y: 29.578934}
+    - name: npc_forehorseman__x1_idle_png_1355170558_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.76889, y: -11.744141}
+        - {x: 48.76889, y: 7.2558594}
+        - {x: 18.76889, y: 51.25586}
+        - {x: -12.23111, y: 51.25586}
+        - {x: -39.23111, y: 29.25586}
+        - {x: -48.23111, y: -0.7441406}
+        - {x: -48.23111, y: -17.74414}
+        - {x: -13.23111, y: -50.74414}
+        - {x: -2.2311096, y: -50.74414}
+        - {x: -0.23110962, y: -44.74414}
+        - {x: 10.76889, y: -49.74414}
+        - {x: 23.76889, y: -48.74414}
+    - name: npc_forehorseman__x1_idle_png_1355170558_86
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 201
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.688637, y: -11.744141}
+        - {x: 48.688637, y: 7.2558594}
+        - {x: 18.688637, y: 51.25586}
+        - {x: -12.311363, y: 51.25586}
+        - {x: -39.311363, y: 29.25586}
+        - {x: -48.311363, y: -0.7441406}
+        - {x: -48.311363, y: -17.74414}
+        - {x: -13.311363, y: -50.74414}
+        - {x: -2.3113632, y: -50.74414}
+        - {x: -0.31136322, y: -44.74414}
+        - {x: 10.688637, y: -49.74414}
+        - {x: 23.688637, y: -48.74414}
+    - name: npc_forehorseman__x1_idle_png_1355170558_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 201
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.608383, y: -11.744141}
+        - {x: 48.608383, y: 7.2558594}
+        - {x: 18.608383, y: 51.25586}
+        - {x: -12.391617, y: 51.25586}
+        - {x: -39.391617, y: 29.25586}
+        - {x: -48.391617, y: -0.7441406}
+        - {x: -48.391617, y: -17.74414}
+        - {x: -13.391617, y: -50.74414}
+        - {x: -2.3916168, y: -50.74414}
+        - {x: -0.39161682, y: -44.74414}
+        - {x: 10.608383, y: -49.74414}
+        - {x: 23.608383, y: -48.74414}
+    - name: npc_forehorseman__x1_idle_png_1355170558_88
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 201
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.528137, y: -11.744141}
+        - {x: 48.528137, y: 7.2558594}
+        - {x: 18.528137, y: 51.25586}
+        - {x: -12.471863, y: 51.25586}
+        - {x: -39.471863, y: 29.25586}
+        - {x: -48.471863, y: -0.7441406}
+        - {x: -48.471863, y: -17.74414}
+        - {x: -13.471863, y: -50.74414}
+        - {x: -2.4718628, y: -50.74414}
+        - {x: -0.4718628, y: -44.74414}
+        - {x: 10.528137, y: -49.74414}
+        - {x: 23.528137, y: -48.74414}
+    - name: npc_forehorseman__x1_idle_png_1355170558_89
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 201
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.447876, y: 51.25586}
+        - {x: -21.552124, y: 51.25586}
+        - {x: -47.552124, y: 42.25586}
+        - {x: -47.552124, y: -19.74414}
+        - {x: -12.552124, y: -50.74414}
+        - {x: 20.447876, y: -50.74414}
+        - {x: 38.447876, y: -43.74414}
+        - {x: 49.447876, y: -25.74414}
+        - {x: 49.447876, y: 17.25586}
+    - name: npc_forehorseman__x1_idle_png_1355170558_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.23111, y: 50.5}
+        - {x: -48.23111, y: 49.5}
+        - {x: -48.23111, y: -32.5}
+        - {x: -31.23111, y: -50.5}
+        - {x: 27.76889, y: -50.5}
+        - {x: 48.76889, y: -20.5}
+        - {x: 48.76889, y: 7.5}
+        - {x: 29.76889, y: 50.5}
+    - name: npc_forehorseman__x1_idle_png_1355170558_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.311363, y: 50.5}
+        - {x: -48.311363, y: 49.5}
+        - {x: -48.311363, y: -32.5}
+        - {x: -31.311363, y: -50.5}
+        - {x: 27.688637, y: -50.5}
+        - {x: 48.688637, y: -20.5}
+        - {x: 48.688637, y: 7.5}
+        - {x: 29.688637, y: 50.5}
+    - name: npc_forehorseman__x1_idle_png_1355170558_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.608383, y: 50.5}
+        - {x: -20.391617, y: 50.5}
+        - {x: -48.391617, y: 41.5}
+        - {x: -48.391617, y: -37.5}
+        - {x: -26.391617, y: -50.5}
+        - {x: 30.608383, y: -50.5}
+        - {x: 48.608383, y: -27.5}
+        - {x: 48.608383, y: 7.5}
+        - {x: 16.608383, y: 49.5}
+    - name: npc_forehorseman__x1_idle_png_1355170558_93
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.528137, y: 50.5}
+        - {x: -20.471863, y: 50.5}
+        - {x: -48.471863, y: 41.5}
+        - {x: -48.471863, y: -37.5}
+        - {x: -26.471863, y: -50.5}
+        - {x: 30.528137, y: -50.5}
+        - {x: 48.528137, y: -27.5}
+        - {x: 48.528137, y: 7.5}
+        - {x: 16.528137, y: 49.5}
+    - name: npc_forehorseman__x1_idle_png_1355170558_94
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.447876, y: 50.5}
+        - {x: -9.552124, y: 50.5}
+        - {x: -38.552124, y: 28.5}
+        - {x: -47.552124, y: 21.5}
+        - {x: -47.552124, y: -50.5}
+        - {x: 32.447876, y: -50.5}
+        - {x: 49.447876, y: -29.5}
+        - {x: 49.447876, y: 7.5}
+        - {x: 18.447876, y: 49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
